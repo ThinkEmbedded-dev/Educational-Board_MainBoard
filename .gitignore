@@ -1,0 +1,25 @@
+# File temporanei e backup
+*.bak
+*~
+*.tmp
+*.kicad_prl
+
+# Output di esportazione
+*.net
+*.xml
+*.cmp
+*.drc
+*.rpt
+*.gbr
+*.ger
+*.drl
+*.pos
+*.csv
+*.zip
+
+# Cartelle generate
+fp-info-cache/
+sym-lib-table-bak/
+backup/
+autosave/
+manufacturing/
