@@ -2,8 +2,12 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 835b4df9-7d62-45f4-81d2-5a64fbc86f3c)
+	(uuid "835b4df9-7d62-45f4-81d2-5a64fbc86f3c")
 	(paper "A4")
+	(title_block
+		(date "2025-09-29")
+		(company "Filippo Castellan, Alan Masutti")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
