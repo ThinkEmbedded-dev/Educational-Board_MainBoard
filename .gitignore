@@ -3,6 +3,7 @@
 *~
 *.tmp
 *.kicad_prl
+*#auto_saved_files#
 
 # Output di esportazione
 *.net
