@@ -16,6 +16,7 @@
 *.pos
 *.csv
 *.zip
+*.lck
 
 # Cartelle generate
 fp-info-cache/
