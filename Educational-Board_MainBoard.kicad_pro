@@ -411,6 +411,14 @@
     [
       "835b4df9-7d62-45f4-81d2-5a64fbc86f3c",
       "Root"
+    ],
+    [
+      "a1b70c1b-93fd-432d-b3bf-990581065c7c",
+      "Power"
+    ],
+    [
+      "4cd73753-9d62-4e71-9011-aaea0e9d47c0",
+      "UI"
     ]
   ],
   "text_variables": {}
