@@ -4,6 +4,7 @@
 *.tmp
 *.kicad_prl
 *#auto_saved_files#
+fp-info-cache
 
 # Output di esportazione
 *.net
