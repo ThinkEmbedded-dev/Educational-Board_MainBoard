@@ -12,8 +12,8 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 186.69 90.17)
-		(size 24.13 25.4)
+		(at 160.02 92.71)
+		(size 24.13 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -28,7 +28,7 @@
 		)
 		(uuid "4cd73753-9d62-4e71-9011-aaea0e9d47c0")
 		(property "Sheetname" "UI"
-			(at 186.69 89.4584 0)
+			(at 160.02 91.9984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,7 +37,7 @@
 			)
 		)
 		(property "Sheetfile" "UI.kicad_sch"
-			(at 186.69 116.1546 0)
+			(at 160.02 116.1546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -103,6 +103,48 @@
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.68 92.71)
+		(size 21.59 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a718e7a0-c449-4532-ac19-5f778084acdd")
+		(property "Sheetname" "MCU"
+			(at 106.68 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 106.68 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Educational-Board_MainBoard"
+				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c"
+					(page "5")
 				)
 			)
 		)

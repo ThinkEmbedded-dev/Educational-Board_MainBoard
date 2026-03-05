@@ -669,6 +669,10 @@
     [
       "fff2b078-1c83-42d8-b24c-4d93ca90abbb",
       "Sensors"
+    ],
+    [
+      "a718e7a0-c449-4532-ac19-5f778084acdd",
+      "MCU"
     ]
   ],
   "text_variables": {}
