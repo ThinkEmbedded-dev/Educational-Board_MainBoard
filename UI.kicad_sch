@@ -607,6 +607,156 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Jumper:Jumper_2_Small_Bridged"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at 0 2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Jumper_2_Small_Bridged"
+				(at 0 -2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Jumper, 2-pole, small symbol, bridged"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Jumper SPST"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Jumper_2_Small_Bridged_0_0"
+				(circle
+					(center -1.016 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.016 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Jumper_2_Small_Bridged_0_1"
+				(arc
+					(start -0.762 0.254)
+					(mid 0 0.5696)
+					(end 0.762 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Jumper_2_Small_Bridged_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 1.27)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.27)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "LED:WS2812B-2020"
 			(pin_names
 				(offset 0.254)
@@ -1891,7 +2041,7 @@
 	)
 	(rectangle
 		(start 162.56 67.31)
-		(end 205.74 105.41)
+		(end 232.41 105.41)
 		(stroke
 			(width 0)
 			(type dash_dot_dot)
@@ -2041,10 +2191,6 @@
 		(color 0 0 0 0)
 		(uuid "f60bd8a7-0e32-428e-ba6e-3a0e6d9603fa")
 	)
-	(no_connect
-		(at 270.51 38.1)
-		(uuid "2d535c38-5c1b-403f-b76c-2a4323cbd78d")
-	)
 	(wire
 		(pts
 			(xy 162.56 38.1) (xy 168.91 38.1)
@@ -2094,6 +2240,16 @@
 			(type default)
 		)
 		(uuid "0dd34c0f-821a-40cb-b9fd-e1a833030c95")
+	)
+	(wire
+		(pts
+			(xy 186.69 85.09) (xy 189.23 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f30d405-c6a3-467e-ad3b-11d7797785e2")
 	)
 	(wire
 		(pts
@@ -2157,6 +2313,16 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 38.1) (xy 279.4 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a1293d9-f069-490b-9910-e51842332817")
+	)
+	(wire
+		(pts
 			(xy 81.28 119.38) (xy 91.44 119.38)
 		)
 		(stroke
@@ -2197,7 +2363,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 90.17) (xy 179.07 90.17)
+			(xy 189.23 90.17) (xy 179.07 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2537,7 +2703,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 87.63) (xy 181.61 87.63)
+			(xy 167.64 87.63) (xy 189.23 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2937,6 +3103,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 82.55) (xy 189.23 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcd0bb68-f662-4500-93d1-815da61a0b09")
+	)
+	(wire
+		(pts
 			(xy 59.69 139.7) (xy 59.69 140.97)
 		)
 		(stroke
@@ -3034,6 +3210,16 @@
 			(justify left bottom)
 		)
 		(uuid "c9f76777-2b76-4833-af12-bbaa1d9cccd9")
+	)
+	(label "RGB_OUT"
+		(at 279.4 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d961d9ba-d92f-4aa5-a76f-89b9a774550c")
 	)
 	(label "BUTTON1"
 		(at 20.32 81.28 0)
@@ -6027,7 +6213,7 @@
 	)
 	(symbol
 		(lib_id "_MIA:oled_0.96{dblquote}_128x64px")
-		(at 191.77 87.63 90)
+		(at 199.39 87.63 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6035,7 +6221,7 @@
 		(dnp no)
 		(uuid "7728890c-bc28-4e55-bb23-66b91dd6daf6")
 		(property "Reference" "U?"
-			(at 184.404 72.898 90)
+			(at 192.024 72.898 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6044,7 +6230,7 @@
 			)
 		)
 		(property "Value" "SSD1315 OLED 0.98\""
-			(at 184.404 75.438 90)
+			(at 192.024 75.438 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6053,7 +6239,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 95.25 0)
+			(at 184.15 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6062,7 +6248,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 95.25 0)
+			(at 184.15 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6071,7 +6257,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 87.63 0)
+			(at 199.39 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6774,7 +6960,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c7d935f-a511-4855-99cf-f0e384bc12a1")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR?"
 			(at 59.69 143.51 0)
 			(effects
 				(font
@@ -6824,7 +7010,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0"
-					(reference "#PWR01")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -7483,6 +7669,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:Jumper_2_Small_Bridged")
+		(at 184.15 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c43ccb3a-e602-479d-a069-e99a6c786953")
+		(property "Reference" "JP?"
+			(at 184.15 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 184.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 184.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "27e7530e-b6c3-4c1a-9cc7-b89fca5ae81a")
+		)
+		(pin "2"
+			(uuid "41a75fef-5a0c-46b5-a351-e6e87cdecab8")
+		)
+		(instances
+			(project "Educational-Board_MainBoard"
+				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0"
+					(reference "JP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 41.91 26.67 0)
 		(unit 1)
@@ -7612,6 +7865,74 @@
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0"
 					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Small_Bridged")
+		(at 184.15 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d7446540-2a94-41a3-b495-b358b760719a")
+		(property "Reference" "JP?"
+			(at 184.15 80.772 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 184.15 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 184.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, small symbol, bridged"
+			(at 184.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "573eea52-517b-4644-9ae8-6e19889cb5e8")
+		)
+		(pin "2"
+			(uuid "a1e78ec0-908e-489b-891d-6b87dbeba5b2")
+		)
+		(instances
+			(project "Educational-Board_MainBoard"
+				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0"
+					(reference "JP?")
 					(unit 1)
 				)
 			)
@@ -7973,7 +8294,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec47fa51-2c72-4a05-93a4-f894dea6c596")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR?"
 			(at 59.69 166.37 0)
 			(effects
 				(font
@@ -8023,7 +8344,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0"
-					(reference "#PWR02")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)

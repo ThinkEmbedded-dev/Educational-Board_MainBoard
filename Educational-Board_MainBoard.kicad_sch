@@ -12,8 +12,8 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 160.02 92.71)
-		(size 24.13 22.86)
+		(at 152.4 111.76)
+		(size 27.94 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -28,7 +28,7 @@
 		)
 		(uuid "4cd73753-9d62-4e71-9011-aaea0e9d47c0")
 		(property "Sheetname" "UI"
-			(at 160.02 91.9984 0)
+			(at 152.4 111.0484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,7 +37,7 @@
 			)
 		)
 		(property "Sheetfile" "UI.kicad_sch"
-			(at 160.02 116.1546 0)
+			(at 152.4 144.0946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49,14 +49,14 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c"
-					(page "3")
+					(page "5")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 59.69 92.71)
-		(size 22.86 22.86)
+		(at 50.8 91.44)
+		(size 30.48 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -71,7 +71,7 @@
 		)
 		(uuid "a1b70c1b-93fd-432d-b3bf-990581065c7c")
 		(property "Sheetname" "Power"
-			(at 59.69 91.9984 0)
+			(at 50.8 90.7284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -80,7 +80,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 59.69 116.1546 0)
+			(at 50.8 123.7746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90,7 +90,7 @@
 			)
 		)
 		(pin "NUCLEO_5V" input
-			(at 82.55 105.41 0)
+			(at 81.28 105.41 0)
 			(uuid "1d17f633-abfc-489d-92ad-55fe1c77d3f1")
 			(effects
 				(font
@@ -108,8 +108,8 @@
 		)
 	)
 	(sheet
-		(at 106.68 92.71)
-		(size 21.59 22.86)
+		(at 99.06 91.44)
+		(size 30.48 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -124,7 +124,7 @@
 		)
 		(uuid "a718e7a0-c449-4532-ac19-5f778084acdd")
 		(property "Sheetname" "MCU"
-			(at 106.68 91.9984 0)
+			(at 99.06 90.7284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -133,7 +133,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 106.68 116.1546 0)
+			(at 99.06 123.7746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -144,14 +144,14 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c"
-					(page "5")
+					(page "3")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 59.69 127)
-		(size 20.32 16.51)
+		(at 152.4 76.2)
+		(size 27.94 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -166,7 +166,7 @@
 		)
 		(uuid "fff2b078-1c83-42d8-b24c-4d93ca90abbb")
 		(property "Sheetname" "Sensors"
-			(at 59.69 126.2884 0)
+			(at 152.4 75.4884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -175,7 +175,7 @@
 			)
 		)
 		(property "Sheetfile" "sensors.kicad_sch"
-			(at 59.69 144.0946 0)
+			(at 152.4 108.5346 0)
 			(effects
 				(font
 					(size 1.27 1.27)

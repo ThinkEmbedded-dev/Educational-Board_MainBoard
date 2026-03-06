@@ -5,6 +5,8 @@
 *.kicad_prl
 *#auto_saved_files#
 fp-info-cache
+**autosave**
+*kicad_sch-bak
 
 # Output di esportazione
 *.net
@@ -24,5 +26,4 @@ fp-info-cache
 fp-info-cache/
 sym-lib-table-bak/
 backup/
-autosave/
 manufacturing/
