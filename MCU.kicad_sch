@@ -284,7 +284,7 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at -13.462 51.054 0)
+				(at -13.462 35.814 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -293,7 +293,7 @@
 				)
 			)
 			(property "Value" "NUCLEO64-H503RB"
-				(at -13.716 48.895 0)
+				(at -13.716 33.655 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1853,6 +1853,200 @@
 						)
 					)
 					(number "80"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "NUCLEO64-H503RB_4_1"
+				(rectangle
+					(start -11.43 0)
+					(end 11.43 -15.24)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 255 255 194 1)
+					)
+				)
+				(pin power_in line
+					(at -15.24 -2.54 0)
+					(length 3.81)
+					(name "5V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "89"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 -5.08 0)
+					(length 3.81)
+					(name "5V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "87"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 -7.62 0)
+					(length 3.81)
+					(name "5V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "85"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 -10.16 0)
+					(length 3.81)
+					(name "5V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "83"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 -12.7 0)
+					(length 3.81)
+					(name "5V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "81"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -2.54 180)
+					(length 3.81)
+					(name "VBUSc"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "90"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -5.08 180)
+					(length 3.81)
+					(name "VBUS_STLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "88"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -7.62 180)
+					(length 3.81)
+					(name "E5V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "86"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -10.16 180)
+					(length 3.81)
+					(name "5V_VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "84"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -12.7 180)
+					(length 3.81)
+					(name "5V_STLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "82"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3717,7 +3911,7 @@
 		(at 92.71 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4007,6 +4201,36 @@
 		)
 		(pin "79"
 			(uuid "8d487468-56be-41c8-87d3-f5974006573b")
+		)
+		(pin "83"
+			(uuid "cde9b360-6371-43b8-9ed9-2a67219a566d")
+		)
+		(pin "90"
+			(uuid "df6d3e7b-9218-4dd7-a2ca-d535b8b3eaa4")
+		)
+		(pin "87"
+			(uuid "c822cacf-2e3c-4f23-8540-27844c8b71ae")
+		)
+		(pin "81"
+			(uuid "a338ebcb-af61-46b8-9390-60a1c84dc728")
+		)
+		(pin "84"
+			(uuid "c67a67ed-78cf-4fc6-9569-40a18e68a5fe")
+		)
+		(pin "89"
+			(uuid "619c7086-dc00-450f-9a4f-3d1e93b09e35")
+		)
+		(pin "86"
+			(uuid "d80ecca4-21a6-49c5-bd30-a97b3b32ff13")
+		)
+		(pin "82"
+			(uuid "50911dd8-8772-4ad5-8b1c-de242251ccf0")
+		)
+		(pin "85"
+			(uuid "91d8e3bc-69e3-41c0-84ea-c4f910987a6c")
+		)
+		(pin "88"
+			(uuid "889a63a2-430c-42c7-bddc-d6b4ebd8bebc")
 		)
 		(instances
 			(project ""
