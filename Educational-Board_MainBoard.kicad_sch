@@ -150,6 +150,49 @@
 		)
 	)
 	(sheet
+		(at 189.23 111.76)
+		(size 27.94 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6")
+		(property "Sheetname" "POWER_UI"
+			(at 189.23 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER_UI.kicad_sch"
+			(at 189.23 144.0946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Educational-Board_MainBoard"
+				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 152.4 76.2)
 		(size 27.94 31.75)
 		(exclude_from_sim no)

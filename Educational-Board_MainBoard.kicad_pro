@@ -681,6 +681,10 @@
     [
       "4cd73753-9d62-4e71-9011-aaea0e9d47c0",
       "UI"
+    ],
+    [
+      "ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6",
+      "POWER_UI"
     ]
   ],
   "text_variables": {}
