@@ -448,9 +448,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "ProjectConnectors"
+      "ProjectConnectors",
+      "ProjectPackage_TO_SOT_SMD"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ProjectSensors"
+    ]
   },
   "meta": {
     "filename": "Educational-Board_MainBoard.kicad_pro",
