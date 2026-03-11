@@ -4620,11 +4620,12 @@
 	)
 	(text "Use this jumper to select if the 3V3 power \nshould be measured by the VDD shunt or not"
 		(exclude_from_sim no)
-		(at 51.562 105.918 0)
+		(at 27.94 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "128fb007-f896-4543-a51c-003950a2ac9b")
 	)

@@ -3747,6 +3747,39 @@
 		)
 		(uuid "528a2e0f-28f3-4a79-a548-2616cea0446d")
 	)
+	(hierarchical_label "JOYSTICK_Y"
+		(shape input)
+		(at 135.89 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "55204461-ca3f-425b-bc94-dd6f27c958b9")
+	)
+	(hierarchical_label "BTN_1"
+		(shape input)
+		(at 49.53 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "618ced58-e70b-473d-8291-a04729ace794")
+	)
+	(hierarchical_label "BTN_3"
+		(shape input)
+		(at 49.53 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "91d5126f-8365-4d61-9224-e5c1f568664e")
+	)
 	(hierarchical_label "I2C1_SCL"
 		(shape bidirectional)
 		(at 234.95 53.34 0)
@@ -3758,6 +3791,50 @@
 		)
 		(uuid "9c3c7c0f-49ad-4b07-9363-00165cedf05e")
 	)
+	(hierarchical_label "JOYSTICK_BTN"
+		(shape input)
+		(at 135.89 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ac3a4ee2-f73b-42d4-9db4-c8adc5a93a7e")
+	)
+	(hierarchical_label "I_SENSE"
+		(shape input)
+		(at 135.89 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d860e0d1-b4aa-44b0-902d-34a11f7daa6a")
+	)
+	(hierarchical_label "BTN_4"
+		(shape input)
+		(at 49.53 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "df7a8358-8db7-40f3-b247-583cbd69c22c")
+	)
+	(hierarchical_label "BTN_5"
+		(shape input)
+		(at 49.53 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dfbac565-0c28-4864-9785-db867f6ddb17")
+	)
 	(hierarchical_label "BUZZER"
 		(shape output)
 		(at 234.95 76.2 0)
@@ -3768,6 +3845,28 @@
 			(justify left)
 		)
 		(uuid "e883b585-93f0-48df-b0ca-f071177ac81e")
+	)
+	(hierarchical_label "JOYSTICK_X"
+		(shape input)
+		(at 49.53 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "eee063bc-67c6-478a-98ae-fe656b7e04b5")
+	)
+	(hierarchical_label "BTN_2"
+		(shape input)
+		(at 49.53 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fcef52f5-7db2-4904-8c02-eef49a919ea6")
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Bridged")
