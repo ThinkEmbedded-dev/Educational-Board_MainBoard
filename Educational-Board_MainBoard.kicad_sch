@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Think Embedded dev Board")
-		(date "2026-01-11")
+		(date "2026-03-12")
 		(rev "1.0")
 		(company "Filippo Castellan, Alan Masutti")
 	)
@@ -54,6 +54,16 @@
 			(type default)
 		)
 		(uuid "1f5a37ea-5a30-441f-8b0b-41d1e9bb8a18")
+	)
+	(wire
+		(pts
+			(xy 102.87 60.96) (xy 111.76 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21f567c4-732d-402d-91a5-7a288d37ec80")
 	)
 	(wire
 		(pts
@@ -413,9 +423,9 @@
 				(hide yes)
 			)
 		)
-		(pin "NUCLEO_5V" input
+		(pin "NUCLEO_5V" output
 			(at 102.87 60.96 0)
-			(uuid "1d17f633-abfc-489d-92ad-55fe1c77d3f1")
+			(uuid "5759c8b0-08fb-490c-a74e-9462ef982633")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -595,16 +605,6 @@
 				(justify left)
 			)
 		)
-		(pin "NUCLEO_5V" output
-			(at 111.76 60.96 180)
-			(uuid "2ea15401-26a2-42bf-a242-b1ebaeead336")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "NUCLEO_VDD" output
 			(at 111.76 63.5 180)
 			(uuid "129e4b93-e70f-4913-b33f-8ca885c60aa3")
@@ -633,6 +633,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "NUCLEO_5V" input
+			(at 111.76 60.96 180)
+			(uuid "eee3a00b-b455-4263-a701-e000ca47dae8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances

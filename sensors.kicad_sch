@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "1a7bc232-06dd-4514-9e35-59b6cb24e1e4")
 	(paper "A4")
+	(title_block
+		(title "Think Embedded dev Board")
+		(date "2026-03-12")
+		(rev "1.0")
+		(company "Filippo Castellan, Alan Masutti")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names

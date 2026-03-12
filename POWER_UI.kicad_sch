@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "fd7a1eaa-caa6-4e54-9543-2ef981fe697f")
 	(paper "A4")
+	(title_block
+		(title "Think Embedded dev Board")
+		(date "2026-03-12")
+		(rev "1.0")
+		(company "Filippo Castellan, Alan Masutti")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
@@ -2900,7 +2906,7 @@
 		(end 271.78 116.84)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash_dot)
 		)
 		(fill
 			(type none)
@@ -2912,7 +2918,7 @@
 		(end 140.97 190.5)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash_dot)
 		)
 		(fill
 			(type none)
@@ -2924,7 +2930,7 @@
 		(end 95.25 116.84)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash_dot)
 		)
 		(fill
 			(type none)
@@ -2936,12 +2942,42 @@
 		(end 193.04 116.84)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash_dot)
 		)
 		(fill
 			(type none)
 		)
 		(uuid bc65be14-1dbf-439b-b88b-123b933f9482)
+	)
+	(text "Insulated output"
+		(exclude_from_sim no)
+		(at 219.964 20.066 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "05768321-8965-468c-99bc-8c6337e24c8c")
+	)
+	(text "Insulated high voltage input (max ??)"
+		(exclude_from_sim no)
+		(at 132.842 20.066 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "183a56dd-760a-4e4a-92b1-835a32f14c31")
+	)
+	(text "I2C I/O expander"
+		(exclude_from_sim no)
+		(at 33.782 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "37612978-5cb2-4c06-a982-cb9c18b0cb7c")
 	)
 	(junction
 		(at 106.68 161.29)

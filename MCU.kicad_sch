@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "6f7354ba-48f8-4137-93c0-f1cfa9e72a32")
 	(paper "A4")
+	(title_block
+		(title "Think Embedded dev Board")
+		(date "2026-03-12")
+		(rev "1.0")
+		(company "Filippo Castellan, Alan Masutti")
+	)
 	(lib_symbols
 		(symbol "Device:R"
 			(pin_numbers
@@ -3704,7 +3710,7 @@
 		(uuid "1d546584-9e3f-45e1-8b66-7f6abcc472e8")
 	)
 	(hierarchical_label "NUCLEO_5V"
-		(shape output)
+		(shape input)
 		(at 109.22 36.83 0)
 		(effects
 			(font
