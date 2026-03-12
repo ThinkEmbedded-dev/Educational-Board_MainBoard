@@ -47,6 +47,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 53.34) (xy 173.99 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e3c220c-4d36-41df-8366-9bb576a98128")
+	)
+	(wire
+		(pts
 			(xy 153.67 82.55) (xy 173.99 82.55)
 		)
 		(stroke
@@ -87,7 +97,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 44.45) (xy 162.56 66.04)
+			(xy 162.56 40.64) (xy 162.56 66.04)
 		)
 		(stroke
 			(width 0)
@@ -97,7 +107,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 41.91) (xy 160.02 41.91)
+			(xy 173.99 38.1) (xy 160.02 38.1)
 		)
 		(stroke
 			(width 0)
@@ -137,7 +147,17 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 41.91) (xy 160.02 63.5)
+			(xy 153.67 55.88) (xy 173.99 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64a0cab4-56ea-478b-98a0-5cc20f2aa8e3")
+	)
+	(wire
+		(pts
+			(xy 160.02 38.1) (xy 160.02 63.5)
 		)
 		(stroke
 			(width 0)
@@ -207,6 +227,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 50.8) (xy 173.99 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc89adca-0771-4337-8c51-f86f7e7f044b")
+	)
+	(wire
+		(pts
 			(xy 153.67 87.63) (xy 173.99 87.63)
 		)
 		(stroke
@@ -227,7 +257,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 44.45) (xy 162.56 44.45)
+			(xy 173.99 40.64) (xy 162.56 40.64)
 		)
 		(stroke
 			(width 0)
@@ -742,7 +772,7 @@
 			)
 		)
 		(pin "I2C1_SCL" bidirectional
-			(at 173.99 41.91 180)
+			(at 173.99 38.1 180)
 			(uuid "0f583b1b-4ff5-44f1-9231-79f7952acd8d")
 			(effects
 				(font
@@ -752,8 +782,38 @@
 			)
 		)
 		(pin "I2C1_SDA" bidirectional
-			(at 173.99 44.45 180)
+			(at 173.99 40.64 180)
 			(uuid "d7113df4-375e-4be2-a805-b9e4b6fafaee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "JOYSTICK_BTN" output
+			(at 173.99 50.8 180)
+			(uuid "ac1ae4ce-b8ac-4e35-aa82-ac734659224f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "JOYSTICK_X" output
+			(at 173.99 55.88 180)
+			(uuid "53199671-86ec-4c48-84b0-c56fbc6c4d39")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "JOYSTICK_Y" output
+			(at 173.99 53.34 180)
+			(uuid "5d89efd8-8afa-43f9-8582-e69de7558465")
 			(effects
 				(font
 					(size 1.27 1.27)
