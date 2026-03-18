@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "ProjectMCUs")(type "KiCad")(uri "${KIPRJMOD}/Libreries/ProjectMCUs.kicad_sym")(options "")(descr ""))
   (lib (name "ProjectSensors")(type "KiCad")(uri "${KIPRJMOD}/Libreries/ProjectSensors.kicad_sym")(options "")(descr ""))
+  (lib (name "ProjectAmplifiers")(type "KiCad")(uri "${KIPRJMOD}/Libreries/ProjectAmplifiers.kicad_sym")(options "")(descr ""))
 )

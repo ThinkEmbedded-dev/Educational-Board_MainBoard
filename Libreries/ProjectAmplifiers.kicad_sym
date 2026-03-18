@@ -1,0 +1,1598 @@
+(kicad_symbol_lib
+	(version 20241209)
+	(generator "kicad_symbol_editor")
+	(generator_version "9.0")
+	(symbol "INA180A1"
+		(pin_names
+			(offset 0.127)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA180A1"
+			(at 3.81 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina180.pdf"
+			(at 3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 20 V/V, SOT-23-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "ina180a1.lib"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "INA180A1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=OUT 2=GND 3=INP 4=INN 5=VCC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "current monitor shunt sensor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "INA180A1_0_1"
+			(polyline
+				(pts
+					(xy 5.08 0) (xy -5.08 5.08) (xy -5.08 -5.08) (xy 5.08 0)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "INA180A1_1_1"
+			(pin input line
+				(at -7.62 2.54 0)
+				(length 2.54)
+				(name "+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -2.54 0)
+				(length 2.54)
+				(name "-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -2.54 7.62 270)
+				(length 3.81)
+				(name "V+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -2.54 -7.62 90)
+				(length 3.81)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 7.62 0 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+		(embedded_files
+			(file
+				(name "ina180a1.lib")
+				(type other)
+				(data |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|
+				)
+				(checksum "CA0C8008D3318BD16FB436EBB9747574")
+			)
+		)
+	)
+	(symbol "INA2180A1_VSSOP-8"
+		(pin_names
+			(offset 0.127)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 5.08 -8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA2180A1"
+			(at 5.08 -11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+			(at 0.635 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina180.pdf"
+			(at 4.445 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 20 V/V, SOT-23-5"
+			(at 0.635 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "ina180a1.lib"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "INA2180A1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=OUT1 2=IN1- 3=IN1+ 4=GND 5=IN2+ 6=IN2- 7=OUT2 8=VCC"
+			(at 0.635 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_locked" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "current monitor shunt sensor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "INA2180A1_VSSOP-8_1_1"
+			(polyline
+				(pts
+					(xy 10.16 -5.08) (xy 0 0) (xy 0 -10.16) (xy 10.16 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 255 255 194 1)
+				)
+			)
+			(pin input line
+				(at -2.54 -2.54 0)
+				(length 2.54)
+				(name "+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 -7.62 0)
+				(length 2.54)
+				(name "-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 12.7 -5.08 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "INA2180A1_VSSOP-8_2_1"
+			(polyline
+				(pts
+					(xy 10.16 -5.08) (xy 0 0) (xy 0 -10.16) (xy 10.16 -5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 255 255 194 1)
+				)
+			)
+			(pin input line
+				(at -2.54 -2.54 0)
+				(length 2.54)
+				(name "+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 -7.62 0)
+				(length 2.54)
+				(name "-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 12.7 -5.08 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "INA2180A1_VSSOP-8_3_1"
+			(rectangle
+				(start -2.8575 3.81)
+				(end 2.8575 -3.8099)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 255 255 194 1)
+				)
+			)
+			(pin input line
+				(at 0 6.35 270)
+				(length 2.54)
+				(name "VS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 0 -6.35 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "LM358_DFN"
+		(pin_names
+			(offset 0.127)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LM358_DFN"
+			(at 0 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "www.st.com/resource/en/datasheet/lm358.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low-Power, Dual Operational Amplifiers, DFN-8"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "LM358-dual.lib"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "LM358"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=1out 2=1in- 3=1in+ 4=vcc- 5=2in+ 6=2in- 7=2out 8=vcc+"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_locked" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "dual opamp"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "DFN*2x2mm*P0.5mm*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "LM358_DFN_1_1"
+			(polyline
+				(pts
+					(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at -7.62 2.54 0)
+				(length 2.54)
+				(name "+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -2.54 0)
+				(length 2.54)
+				(name "-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 7.62 0 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LM358_DFN_2_1"
+			(polyline
+				(pts
+					(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin input line
+				(at -7.62 2.54 0)
+				(length 2.54)
+				(name "+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -2.54 0)
+				(length 2.54)
+				(name "-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 7.62 0 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LM358_DFN_3_1"
+			(pin power_in line
+				(at -2.54 7.62 270)
+				(length 3.81)
+				(name "V+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -2.54 -7.62 90)
+				(length 3.81)
+				(name "V-"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -7.62 90)
+				(length 5.08)
+				(name "PAD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+		(embedded_files
+			(file
+				(name "LM358-dual.lib")
+				(type other)
+				(data |KLUv/SDipQQA4scaGVC1DjgYdoPz1ubSxBYWCpyS3RSCMRNixgfMWKzyEYzTQE6zDA/EhpAQtCPk
+					2Ghfxtuwzscuu9bVSTyAULsL6hyeXTs8s+B0scfT7BcgR+E0VySV6mVP6gC3jJZewnlhVf1Fpcu+
+					pRu/HAgQILCiqjxm2YEOuRDYGYzWAAbaAUYBwDPuEEwBoPBYQPokeAGCAg==|
+				)
+				(checksum "6DE6E3AB05103E6D69479F5B6D7E678C")
+			)
+			(file
+				(name "lmx58_lm2904.lib")
+				(type other)
+				(data |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|
+				)
+				(checksum "FCBF4A12DCA82CC4AFB52E84C789B3AE")
+			)
+		)
+	)
+	(symbol "INA180A2"
+		(extends "INA180A1")
+		(property "Reference" "U"
+			(at 3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA180A2"
+			(at 3.81 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 50 V/V, SOT-23-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "ina180a2.lib"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "INA180A2"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=OUT 2=GND 3=INP 4=INN 5=VCC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "current monitor shunt sensor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "INA180A3"
+		(extends "INA180A1")
+		(property "Reference" "U"
+			(at 3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA180A3"
+			(at 3.81 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 20 V/V, SOT-23-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "ina180a3.lib"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "INA180A3"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=OUT 2=GND 3=INP 4=INN 5=VCC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "current monitor shunt sensor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "INA180A4"
+		(extends "INA180A1")
+		(property "Reference" "U"
+			(at 3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA180A4"
+			(at 3.81 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 1.27 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 20 V/V, SOT-23-5"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "ina180a4.lib"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "INA180A4"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=OUT 2=GND 3=INP 4=INN 5=VCC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "current monitor shunt sensor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "INA2180A2_VSSOP-8"
+		(extends "INA2180A1_VSSOP-8")
+		(property "Reference" "U"
+			(at 6.0325 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA2180A2"
+			(at 6.0325 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 3.81 0.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 50 V/V, SOT-23-5"
+			(at 0 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "ina180a2.lib"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "INA2180A2"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=OUT1 2=IN1- 3=IN1+ 4=GND 5=IN2+ 6=IN2- 7=OUT2 8=VCC"
+			(at 0 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "current monitor shunt sensor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "INA2180A3_VSSOP-8"
+		(extends "INA2180A1_VSSOP-8")
+		(property "Reference" "U"
+			(at 6.0325 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA2180A1"
+			(at 6.0325 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 3.81 0.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 20 V/V, SOT-23-5"
+			(at 0 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "ina180a1.lib"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "INA2180A1"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=OUT1 2=IN1- 3=IN1+ 4=GND 5=IN2+ 6=IN2- 7=OUT2 8=VCC"
+			(at 0 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "current monitor shunt sensor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(symbol "INA2180A4_VSSOP-8"
+		(extends "INA2180A1_VSSOP-8")
+		(property "Reference" "U"
+			(at 6.0325 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA2180A4"
+			(at 6.0325 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 3.81 0.635 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Current Sense Amplifier, 1 Circuit, Rail-to-Rail, 26V, Gain 200 V/V, SOT-23-5"
+			(at 0 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "ina180a4.lib"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "INA2180A4"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SUBCKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=OUT1 2=IN1- 3=IN1+ 4=GND 5=IN2+ 6=IN2- 7=OUT2 8=VCC"
+			(at 0 0.3175 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "current monitor shunt sensor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "SOT?23*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+)

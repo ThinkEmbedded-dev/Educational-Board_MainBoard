@@ -452,7 +452,8 @@
       "ProjectPackage_TO_SOT_SMD"
     ],
     "pinned_symbol_libs": [
-      "ProjectSensors"
+      "ProjectSensors",
+      "ProjectAmplifiers"
     ]
   },
   "meta": {
@@ -606,6 +607,18 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Library",
+          "name": "Sim.Library",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Name",
+          "name": "Sim.Name",
           "show": false
         }
       ],
