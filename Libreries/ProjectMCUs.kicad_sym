@@ -1687,7 +1687,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 15.24 -2.54 180)
 				(length 3.81)
 				(name "VBUSc"
@@ -1705,7 +1705,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 15.24 -5.08 180)
 				(length 3.81)
 				(name "VBUS_STLK"
@@ -1723,7 +1723,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 15.24 -7.62 180)
 				(length 3.81)
 				(name "E5V"
@@ -1741,7 +1741,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 15.24 -10.16 180)
 				(length 3.81)
 				(name "5V_VIN"
@@ -1759,7 +1759,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 15.24 -12.7 180)
 				(length 3.81)
 				(name "5V_STLK"
