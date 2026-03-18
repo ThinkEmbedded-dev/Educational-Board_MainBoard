@@ -626,8 +626,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Value"
+      "sort_asc": false,
+      "sort_field": "${DNP}"
     },
     "connection_grid_size": 50.0,
     "drawing": {

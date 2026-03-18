@@ -11280,7 +11280,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "77d5c4ba-3100-4942-850a-02b9694f09da")
 		(property "Reference" "JP?"
 			(at 229.108 39.37 0)

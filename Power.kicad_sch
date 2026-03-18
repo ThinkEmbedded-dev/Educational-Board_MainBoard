@@ -7295,7 +7295,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4u7"
 			(at 98.171 39.9666 0)
 			(effects
 				(font
@@ -7430,7 +7430,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5K1"
 			(at 66.548 160.4522 0)
 			(effects
 				(font
@@ -7498,7 +7498,7 @@
 				)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 166.37 29.6696 90)
 			(effects
 				(font
@@ -7768,7 +7768,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5.1k"
+		(property "Value" "5K1"
 			(at 57.9121 160.4522 0)
 			(effects
 				(font
@@ -8106,7 +8106,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.24k"
+		(property "Value" "3K24"
 			(at 193.548 50.1266 0)
 			(effects
 				(font
@@ -8375,7 +8375,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4u7"
 			(at 121.031 39.9666 0)
 			(effects
 				(font
@@ -8813,7 +8813,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4u7"
 			(at 109.601 39.9666 0)
 			(effects
 				(font
@@ -9754,7 +9754,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 193.548 39.9666 0)
 			(effects
 				(font
@@ -10146,7 +10146,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4u7"
 			(at 222.25 40.64 0)
 			(effects
 				(font
@@ -10284,7 +10284,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4u7"
 			(at 210.82 40.64 0)
 			(effects
 				(font
