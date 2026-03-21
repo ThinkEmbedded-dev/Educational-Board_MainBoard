@@ -4033,7 +4033,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 153.924 84.074 90)
+			(at 154.432 84.328 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4813,7 +4813,6 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 96.52 73.66 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4821,7 +4820,7 @@
 		(dnp no)
 		(uuid "3d0154fe-cf49-4f44-a475-4af10e8fcae4")
 		(property "Reference" "R?"
-			(at 94.742 72.4446 0)
+			(at 98.298 72.4446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4830,7 +4829,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 94.742 74.8753 0)
+			(at 98.298 74.8753 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4839,7 +4838,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 98.298 73.66 90)
+			(at 94.742 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5670,7 +5669,6 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 44.45 144.78 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5678,7 +5676,7 @@
 		(dnp no)
 		(uuid "598a94c7-808f-4b87-8fc6-83a69e6540b7")
 		(property "Reference" "R?"
-			(at 42.672 143.5646 0)
+			(at 46.228 143.5646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5687,7 +5685,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 42.672 145.9953 0)
+			(at 46.228 145.9953 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5696,7 +5694,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 46.228 144.78 90)
+			(at 42.672 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5939,7 +5937,6 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 44.45 73.66 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5947,7 +5944,7 @@
 		(dnp no)
 		(uuid "684f2465-6bdc-4a0e-b7ac-378019d44e05")
 		(property "Reference" "R?"
-			(at 42.672 72.4446 0)
+			(at 46.228 72.4446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5956,7 +5953,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 42.672 74.8753 0)
+			(at 46.228 74.8753 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5965,7 +5962,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 46.228 73.66 90)
+			(at 42.672 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6769,8 +6766,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 157.48 91.44 0)
-		(mirror x)
+		(at 157.48 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6778,7 +6774,7 @@
 		(dnp no)
 		(uuid "80951e0e-a6db-436f-b785-76cecf3c9174")
 		(property "Reference" "R?"
-			(at 163.83 91.44 0)
+			(at 151.13 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6787,7 +6783,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 164.338 93.472 0)
+			(at 150.622 93.472 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6796,7 +6792,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 155.702 91.44 90)
+			(at 159.258 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6840,7 +6836,6 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 96.52 107.95 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6848,7 +6843,7 @@
 		(dnp no)
 		(uuid "85196fbc-8041-4ecc-bb7e-84caf9fa1397")
 		(property "Reference" "R?"
-			(at 94.742 106.7346 0)
+			(at 98.298 106.7346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6857,7 +6852,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 94.742 109.1653 0)
+			(at 98.298 109.1653 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6866,7 +6861,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 98.298 107.95 90)
+			(at 94.742 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8289,7 +8284,6 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 44.45 107.95 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8297,7 +8291,7 @@
 		(dnp no)
 		(uuid "c69d2b42-1629-4bf0-a944-ef748caeb9b9")
 		(property "Reference" "R?"
-			(at 42.672 106.7346 0)
+			(at 46.228 106.7346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8306,7 +8300,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 42.672 109.1653 0)
+			(at 46.228 109.1653 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8315,7 +8309,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 46.228 107.95 90)
+			(at 42.672 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)

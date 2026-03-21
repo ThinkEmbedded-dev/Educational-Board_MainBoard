@@ -6242,10 +6242,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0c962c1d-c9d4-42df-80a2-4db376003bf5")
 		(property "Reference" "R?"
-			(at 135.89 26.67 90)
+			(at 135.89 28.448 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6253,7 +6252,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 135.89 29.21 90)
+			(at 135.89 30.988 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6540,10 +6539,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "139f93b3-9a3f-403c-8b88-365bc3f6c5c2")
 		(property "Reference" "U?"
-			(at 151.13 44.45 0)
+			(at 151.13 45.466 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6551,7 +6549,7 @@
 			)
 		)
 		(property "Value" "TLP291-4"
-			(at 151.13 46.99 0)
+			(at 151.13 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6648,15 +6646,15 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 129.54 91.44 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "14718087-fc67-4a36-a636-da8a290b870d")
 		(property "Reference" "C?"
-			(at 132.461 90.2246 0)
+			(at 126.619 90.2246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6665,7 +6663,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 132.461 92.6553 0)
+			(at 126.619 92.6553 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6674,7 +6672,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 130.5052 95.25 0)
+			(at 128.5748 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6804,15 +6802,15 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 129.54 55.88 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "20267808-b35d-40c1-8a3b-39a5d1df1ed3")
 		(property "Reference" "C?"
-			(at 132.461 54.6646 0)
+			(at 126.619 54.6646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6821,7 +6819,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 132.461 57.0953 0)
+			(at 126.619 57.0953 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6830,7 +6828,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 130.5052 59.69 0)
+			(at 128.5748 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7076,10 +7074,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2e167c95-6a74-4e90-a6f2-fa7f1490ff36")
 		(property "Reference" "R?"
-			(at 135.89 62.23 90)
+			(at 135.89 64.008 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7087,7 +7084,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 135.89 64.77 90)
+			(at 135.89 66.548 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7144,10 +7141,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2e64f92e-02a3-4eff-aa0b-76bfcd2624e6")
 		(property "Reference" "R?"
-			(at 228.6 62.23 90)
+			(at 228.6 63.754 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7155,7 +7151,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 228.6 64.77 90)
+			(at 228.6 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7212,10 +7208,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3313ecef-46c1-49e3-bddd-e76003c01515")
 		(property "Reference" "R?"
-			(at 228.6 26.67 90)
+			(at 228.6 28.194 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7223,7 +7218,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 228.6 29.21 90)
+			(at 228.6 30.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7354,10 +7349,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "35f1e1ca-52f1-4f31-a384-858d9e17a71c")
 		(property "Reference" "U?"
-			(at 242.57 62.23 0)
+			(at 242.57 63.754 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7365,7 +7359,7 @@
 			)
 		)
 		(property "Value" "TLP291-4"
-			(at 242.57 64.77 0)
+			(at 242.57 66.294 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7534,10 +7528,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3d0f4632-c504-41eb-95c1-950c0c6cb062")
 		(property "Reference" "U?"
-			(at 151.13 26.67 0)
+			(at 151.13 27.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7545,7 +7538,7 @@
 			)
 		)
 		(property "Value" "TLP291-4"
-			(at 151.13 29.21 0)
+			(at 151.13 30.226 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7642,15 +7635,15 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 129.54 38.1 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3e19b533-1944-4cba-a2db-d55a2985ed66")
 		(property "Reference" "C?"
-			(at 132.461 36.8846 0)
+			(at 126.619 36.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7659,7 +7652,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 132.461 39.3153 0)
+			(at 126.619 39.3153 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7668,7 +7661,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 130.5052 41.91 0)
+			(at 128.5748 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7787,10 +7780,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "42de57c0-abe3-4f03-8725-e9bbc4ac8db9")
 		(property "Reference" "R?"
-			(at 135.89 44.45 90)
+			(at 135.89 46.228 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7798,7 +7790,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 135.89 46.99 90)
+			(at 135.89 48.768 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8058,6 +8050,7 @@
 	(symbol
 		(lib_id "Transistor_FET:IRLML9301")
 		(at 104.14 171.45 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8065,7 +8058,7 @@
 		(dnp no)
 		(uuid "4ae9b2d9-0574-4a14-b371-10e1ff7213ba")
 		(property "Reference" "Q?"
-			(at 110.49 170.1799 0)
+			(at 110.49 172.7201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8074,7 +8067,7 @@
 			)
 		)
 		(property "Value" "IRLML9301"
-			(at 109.474 172.72 0)
+			(at 109.474 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8083,7 +8076,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 109.22 173.355 0)
+			(at 109.22 169.545 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8094,7 +8087,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640"
-			(at 109.22 175.26 0)
+			(at 109.22 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8272,6 +8265,7 @@
 	(symbol
 		(lib_id "Transistor_FET:IRLML9301")
 		(at 104.14 139.7 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8279,7 +8273,7 @@
 		(dnp no)
 		(uuid "53567b1e-d662-40e4-b260-fa2ec70fdb8a")
 		(property "Reference" "Q?"
-			(at 110.49 138.4299 0)
+			(at 110.49 140.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8288,7 +8282,7 @@
 			)
 		)
 		(property "Value" "IRLML9301"
-			(at 109.474 140.97 0)
+			(at 109.474 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8297,7 +8291,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 109.22 141.605 0)
+			(at 109.22 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8308,7 +8302,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640"
-			(at 109.22 143.51 0)
+			(at 109.22 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8566,6 +8560,7 @@
 	(symbol
 		(lib_id "Transistor_FET:IRLML9301")
 		(at 45.72 138.43 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8573,7 +8568,7 @@
 		(dnp no)
 		(uuid "5bbcc438-3ce9-47f2-9b8d-ffde89e42bd2")
 		(property "Reference" "Q?"
-			(at 52.07 137.1599 0)
+			(at 52.07 139.7001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8582,7 +8577,7 @@
 			)
 		)
 		(property "Value" "IRLML9301"
-			(at 51.054 139.7 0)
+			(at 51.054 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8591,7 +8586,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 50.8 140.335 0)
+			(at 50.8 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8602,7 +8597,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640"
-			(at 50.8 142.24 0)
+			(at 50.8 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9080,10 +9075,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7c458bf5-5d9e-4512-98d1-65b33f49e195")
 		(property "Reference" "R?"
-			(at 165.1 26.67 90)
+			(at 165.1 28.194 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9091,7 +9085,7 @@
 			)
 		)
 		(property "Value" "570"
-			(at 165.1 29.21 90)
+			(at 165.1 30.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9214,10 +9208,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "82bee362-aa64-4616-a41f-d5291f0b9670")
 		(property "Reference" "R?"
-			(at 228.6 80.01 90)
+			(at 228.6 81.534 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9225,7 +9218,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 228.6 82.55 90)
+			(at 228.6 84.074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9347,10 +9340,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8ad2de4f-8e17-4406-9268-922e41ac7ea4")
 		(property "Reference" "U?"
-			(at 242.57 26.67 0)
+			(at 242.57 28.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9358,7 +9350,7 @@
 			)
 		)
 		(property "Value" "TLP291-4"
-			(at 242.57 29.21 0)
+			(at 242.57 30.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9460,10 +9452,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9efb2952-9a8f-412a-8fda-b79457361c01")
 		(property "Reference" "U?"
-			(at 242.57 44.45 0)
+			(at 242.57 45.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9471,7 +9462,7 @@
 			)
 		)
 		(property "Value" "TLP291-4"
-			(at 242.57 46.99 0)
+			(at 242.57 48.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9568,15 +9559,15 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 129.54 73.66 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a3746391-1a77-4569-83ef-0ba4b0869606")
 		(property "Reference" "C?"
-			(at 132.461 72.4446 0)
+			(at 126.619 72.4446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9585,7 +9576,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 132.461 74.8753 0)
+			(at 126.619 74.8753 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9594,7 +9585,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 130.5052 77.47 0)
+			(at 128.5748 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9644,10 +9635,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a52d0f2a-a813-4ba6-bad4-af29f43d920e")
 		(property "Reference" "U?"
-			(at 151.13 80.01 0)
+			(at 151.13 81.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9655,7 +9645,7 @@
 			)
 		)
 		(property "Value" "TLP291-4"
-			(at 151.13 82.55 0)
+			(at 151.13 83.566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10041,10 +10031,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bc003f33-6cea-466e-adea-7914ec26411a")
 		(property "Reference" "R?"
-			(at 165.1 80.01 90)
+			(at 165.1 81.534 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10052,7 +10041,7 @@
 			)
 		)
 		(property "Value" "570"
-			(at 165.1 82.55 90)
+			(at 165.1 84.074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10104,6 +10093,7 @@
 	(symbol
 		(lib_id "Transistor_FET:IRLML9301")
 		(at 45.72 171.45 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10111,7 +10101,7 @@
 		(dnp no)
 		(uuid "bd285174-55bc-44b0-9c7c-cac66121de60")
 		(property "Reference" "Q?"
-			(at 52.07 170.1799 0)
+			(at 52.07 172.7201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10120,7 +10110,7 @@
 			)
 		)
 		(property "Value" "IRLML9301"
-			(at 51.054 172.72 0)
+			(at 51.054 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10129,7 +10119,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 50.8 173.355 0)
+			(at 50.8 169.545 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10140,7 +10130,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640"
-			(at 50.8 175.26 0)
+			(at 50.8 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10319,10 +10309,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cd7aa3fc-0a26-43ef-b3d2-f24c5e73e1b6")
 		(property "Reference" "U?"
-			(at 151.13 62.23 0)
+			(at 151.13 63.246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10330,7 +10319,7 @@
 			)
 		)
 		(property "Value" "TLP291-4"
-			(at 151.13 64.77 0)
+			(at 151.13 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10433,10 +10422,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d1e6700f-4082-4512-aa23-76930de05688")
 		(property "Reference" "R?"
-			(at 165.1 62.23 90)
+			(at 165.1 63.754 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10444,7 +10432,7 @@
 			)
 		)
 		(property "Value" "570"
-			(at 165.1 64.77 90)
+			(at 165.1 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10501,10 +10489,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d7d32ac5-dc92-4d17-b7fd-0179c283bf40")
 		(property "Reference" "U?"
-			(at 242.57 80.01 0)
+			(at 242.57 81.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10512,7 +10499,7 @@
 			)
 		)
 		(property "Value" "TLP291-4"
-			(at 242.57 82.55 0)
+			(at 242.57 84.074 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10614,10 +10601,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e2d1d99a-97d6-4332-bac3-5afcfa00f0e6")
 		(property "Reference" "R?"
-			(at 135.89 80.01 90)
+			(at 135.89 81.788 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10625,7 +10611,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 135.89 82.55 90)
+			(at 135.89 84.328 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10752,10 +10738,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eaebd7f8-d591-4d64-bc16-fdcbc0b05224")
 		(property "Reference" "R?"
-			(at 228.6 44.45 90)
+			(at 228.6 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10763,7 +10748,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 228.6 46.99 90)
+			(at 228.6 48.514 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11107,10 +11092,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ff428e72-4317-4dc3-8a4a-6c173b17982a")
 		(property "Reference" "R?"
-			(at 165.1 44.45 90)
+			(at 165.1 46.228 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11118,7 +11102,7 @@
 			)
 		)
 		(property "Value" "570"
-			(at 165.1 46.99 90)
+			(at 165.1 48.768 90)
 			(effects
 				(font
 					(size 1.27 1.27)
