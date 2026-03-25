@@ -8648,7 +8648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "009eb5da-56c8-4699-bc04-99ff22a1a826")
-		(property "Reference" "U?"
+		(property "Reference" "U403"
 			(at 216.7733 44.45 0)
 			(effects
 				(font
@@ -8693,6 +8693,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17612395"
+			(at 214.63 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "cb3d978e-a757-4bc8-af70-811efed82f77")
 		)
@@ -8726,7 +8735,7 @@
 			)
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "U?")
+					(reference "U403")
 					(unit 1)
 				)
 			)
@@ -8742,7 +8751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "01e6b7f5-32be-4b70-b0d4-6d3b3e212d40")
-		(property "Reference" "C?"
+		(property "Reference" "C411"
 			(at 118.11 168.91 0)
 			(effects
 				(font
@@ -8760,7 +8769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 119.6848 173.99 0)
 			(effects
 				(font
@@ -8787,7 +8796,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 120.65 170.18 0)
 			(effects
 				(font
@@ -8805,7 +8814,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C411")
 					(unit 1)
 				)
 			)
@@ -8821,7 +8830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a23c640-7db0-4bfb-bfb3-e0667f1cdbfd")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0420"
 			(at 214.63 83.82 0)
 			(effects
 				(font
@@ -8877,7 +8886,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0420")
 					(unit 1)
 				)
 			)
@@ -8893,7 +8902,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a9ffe41-23ce-41c7-820c-320f2ce69c86")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0425"
 			(at 219.71 118.11 0)
 			(effects
 				(font
@@ -8949,7 +8958,7 @@
 			)
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0425")
 					(unit 1)
 				)
 			)
@@ -8965,7 +8974,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1455d691-25bb-47e9-a785-0405ef86f2aa")
-		(property "Reference" "U?"
+		(property "Reference" "U401"
 			(at 67.1232 74.1208 0)
 			(effects
 				(font
@@ -9071,7 +9080,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "U?")
+					(reference "U401")
 					(unit 1)
 				)
 			)
@@ -9086,7 +9095,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14a48520-d252-4175-81da-cc3b2219fe17")
-		(property "Reference" "J?"
+		(property "Reference" "J401"
 			(at 88.392 49.784 0)
 			(effects
 				(font
@@ -9102,7 +9111,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 88.9 52.07 0)
 			(effects
 				(font
@@ -9129,6 +9138,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492400"
+			(at 88.9 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b3115d5-a1bc-45cb-86ae-41505168c268")
 		)
@@ -9141,7 +9159,7 @@
 			)
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "J?")
+					(reference "J401")
 					(unit 1)
 				)
 			)
@@ -9156,7 +9174,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c92b9f2-468b-4566-8601-3783b7c69a55")
-		(property "Reference" "R?"
+		(property "Reference" "R407"
 			(at 72.39 161.29 90)
 			(effects
 				(font
@@ -9172,7 +9190,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.168 161.29 90)
 			(effects
 				(font
@@ -9223,7 +9241,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "R?")
+					(reference "R407")
 					(unit 1)
 				)
 			)
@@ -9239,7 +9257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c9990c2-7561-4ba6-8f6d-729bed6cf7d7")
-		(property "Reference" "U?"
+		(property "Reference" "U404"
 			(at 157.48 119.3799 0)
 			(effects
 				(font
@@ -9320,6 +9338,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2058508"
+			(at 153.67 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2d6dd489-c81b-4083-a8cc-a85f4272eadd")
 		)
@@ -9347,7 +9374,7 @@
 		(instances
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "U?")
+					(reference "U404")
 					(unit 3)
 				)
 			)
@@ -9363,7 +9390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "245ae7fe-28ef-454f-940b-165000699b15")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0402"
 			(at 73.66 33.02 0)
 			(effects
 				(font
@@ -9419,7 +9446,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0402")
 					(unit 1)
 				)
 			)
@@ -9435,7 +9462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28cf1470-73e9-4006-ac3a-27cd4a3da20e")
-		(property "Reference" "R?"
+		(property "Reference" "R401"
 			(at 147.32 71.1199 0)
 			(effects
 				(font
@@ -9453,7 +9480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 143.002 72.39 90)
 			(effects
 				(font
@@ -9480,6 +9507,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23206"
+			(at 144.78 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c9919233-040d-4f74-b44d-1acea131dcee")
 		)
@@ -9495,7 +9531,7 @@
 			)
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "R?")
+					(reference "R401")
 					(unit 1)
 				)
 			)
@@ -9511,7 +9547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b0b4dca-8ff2-40a2-b221-675f6ad8f3bc")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0401"
 			(at 58.42 33.02 0)
 			(effects
 				(font
@@ -9567,7 +9603,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0401")
 					(unit 1)
 				)
 			)
@@ -9583,7 +9619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bf57c4e-0cd2-480f-b703-8bcb88b18de6")
-		(property "Reference" "JP?"
+		(property "Reference" "JP413"
 			(at 130.81 143.5099 90)
 			(effects
 				(font
@@ -9628,6 +9664,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492402"
+			(at 133.35 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ec552434-9ee2-49e7-a4e4-1edad1a9a244")
 		)
@@ -9640,7 +9685,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP413")
 					(unit 1)
 				)
 			)
@@ -9656,7 +9701,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3025fc07-a8b6-4a4f-8301-82c833151392")
-		(property "Reference" "C?"
+		(property "Reference" "C405"
 			(at 205.74 34.29 0)
 			(effects
 				(font
@@ -9674,7 +9719,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 207.3148 39.37 0)
 			(effects
 				(font
@@ -9701,7 +9746,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 208.28 35.56 0)
 			(effects
 				(font
@@ -9725,7 +9770,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C405")
 					(unit 1)
 				)
 			)
@@ -9741,7 +9786,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32dfc2cb-a856-4c02-b3af-62674833e387")
-		(property "Reference" "R?"
+		(property "Reference" "R402"
 			(at 233.68 71.1199 0)
 			(effects
 				(font
@@ -9759,7 +9804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 229.362 72.39 90)
 			(effects
 				(font
@@ -9786,6 +9831,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23206"
+			(at 231.14 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a189b97-d205-4985-a6a2-75bab7468190")
 		)
@@ -9801,7 +9855,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "R?")
+					(reference "R402")
 					(unit 1)
 				)
 			)
@@ -9817,7 +9871,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39dfdf3d-e5db-4ca3-a275-2a2acc5079fe")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0422"
 			(at 109.22 115.57 0)
 			(effects
 				(font
@@ -9867,7 +9921,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0422")
 					(unit 1)
 				)
 			)
@@ -9883,7 +9937,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3dafad24-93f0-4d85-a773-01f3ebece2c7")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0408"
 			(at 231.14 33.02 0)
 			(effects
 				(font
@@ -9939,7 +9993,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0408")
 					(unit 1)
 				)
 			)
@@ -9955,7 +10009,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f794498-ac8a-42ab-abf7-cecdc0314d0f")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0427"
 			(at 153.67 135.89 0)
 			(effects
 				(font
@@ -10011,7 +10065,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0427")
 					(unit 1)
 				)
 			)
@@ -10027,7 +10081,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42dd68c9-5ed9-4b4d-aaab-216fbdbe6bac")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0410"
 			(at 73.66 46.99 0)
 			(effects
 				(font
@@ -10083,7 +10137,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0410")
 					(unit 1)
 				)
 			)
@@ -10098,7 +10152,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43e5504d-6d5c-4aca-8720-d8dd81c29fdb")
-		(property "Reference" "JP?"
+		(property "Reference" "JP407"
 			(at 43.18 60.198 0)
 			(effects
 				(font
@@ -10157,7 +10211,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP407")
 					(unit 1)
 				)
 			)
@@ -10173,7 +10227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44e91e68-8e00-4173-b1a7-6f71082d81d7")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0416"
 			(at 64.77 82.55 0)
 			(effects
 				(font
@@ -10229,7 +10283,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0416")
 					(unit 1)
 				)
 			)
@@ -10245,7 +10299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45f3f5d7-f928-4d30-81ca-8c9015a70646")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0412"
 			(at 134.62 46.99 0)
 			(effects
 				(font
@@ -10301,7 +10355,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0412")
 					(unit 1)
 				)
 			)
@@ -10318,7 +10372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "536f6e6d-34eb-4a19-b8e9-027f26a119f1")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0413"
 			(at 208.28 46.99 0)
 			(effects
 				(font
@@ -10374,7 +10428,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0413")
 					(unit 1)
 				)
 			)
@@ -10389,7 +10443,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5402970d-878b-460c-b53e-73d4cf254deb")
-		(property "Reference" "D?"
+		(property "Reference" "D401"
 			(at 111.76 116.84 90)
 			(effects
 				(font
@@ -10398,7 +10452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "SK84"
 			(at 111.76 119.38 90)
 			(effects
 				(font
@@ -10407,7 +10461,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 109.22 118.11 0)
 			(effects
 				(font
@@ -10416,7 +10470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2922187.pdf"
 			(at 109.22 118.11 0)
 			(effects
 				(font
@@ -10434,6 +10488,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2922187"
+			(at 109.22 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "06408223-72e6-479d-a244-c73651c901b7")
 		)
@@ -10443,7 +10506,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "D?")
+					(reference "D401")
 					(unit 1)
 				)
 			)
@@ -10460,7 +10523,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ae2e7b0-0343-4227-8a9c-7188033c431e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0407"
 			(at 214.63 33.02 0)
 			(effects
 				(font
@@ -10516,7 +10579,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0407")
 					(unit 1)
 				)
 			)
@@ -10531,7 +10594,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5bc5d924-7674-4d26-beef-6da3db189747")
-		(property "Reference" "JP?"
+		(property "Reference" "JP408"
 			(at 148.59 60.198 0)
 			(effects
 				(font
@@ -10590,7 +10653,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP408")
 					(unit 1)
 				)
 			)
@@ -10606,7 +10669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6118b901-fca7-4cb6-98fa-3955f8c56bfa")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0434"
 			(at 109.22 156.21 0)
 			(effects
 				(font
@@ -10656,7 +10719,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0434")
 					(unit 1)
 				)
 			)
@@ -10671,7 +10734,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "627c2d7d-54d2-4675-aed9-34036815fc7c")
-		(property "Reference" "C?"
+		(property "Reference" "C410"
 			(at 245.11 128.27 0)
 			(effects
 				(font
@@ -10689,7 +10752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 243.5352 133.35 0)
 			(effects
 				(font
@@ -10716,7 +10779,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 242.57 129.54 0)
 			(effects
 				(font
@@ -10740,7 +10803,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C410")
 					(unit 1)
 				)
 			)
@@ -10756,7 +10819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6406f8b6-8276-412b-a0ae-1f1a5e96e703")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0429"
 			(at 210.82 140.97 0)
 			(effects
 				(font
@@ -10812,7 +10875,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0429")
 					(unit 1)
 				)
 			)
@@ -10828,7 +10891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64635a35-c80e-41d6-8af8-d7e9ba423c62")
-		(property "Reference" "U?"
+		(property "Reference" "U402"
 			(at 114.3 58.4199 0)
 			(effects
 				(font
@@ -10873,6 +10936,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C92489"
+			(at 125.73 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0871406e-e810-4687-a7c8-ce98cef9d00e")
 		)
@@ -10906,7 +10978,7 @@
 			)
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "U?")
+					(reference "U402")
 					(unit 1)
 				)
 			)
@@ -10922,7 +10994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "658d3907-af6e-42b7-bdc5-1619194c4443")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0406"
 			(at 152.4 33.02 0)
 			(effects
 				(font
@@ -10978,7 +11050,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0406")
 					(unit 1)
 				)
 			)
@@ -10994,7 +11066,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "677238c2-e560-4fa8-aebe-0d9a47ec394b")
-		(property "Reference" "JP?"
+		(property "Reference" "JP405"
 			(at 236.22 57.912 0)
 			(effects
 				(font
@@ -11053,7 +11125,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP405")
 					(unit 1)
 				)
 			)
@@ -11069,7 +11141,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b4deff2-9ace-4807-a2d7-bb1b11d4c9e9")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0432"
 			(at 234.95 140.97 0)
 			(effects
 				(font
@@ -11125,7 +11197,7 @@
 			)
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0432")
 					(unit 1)
 				)
 			)
@@ -11141,7 +11213,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d78ecab-4416-45c2-b9be-383bda32a79c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0414"
 			(at 31.75 59.69 0)
 			(effects
 				(font
@@ -11197,7 +11269,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0414")
 					(unit 1)
 				)
 			)
@@ -11214,7 +11286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dfe87b4-c41c-4754-93b2-4163e47870bd")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0433"
 			(at 242.57 140.97 0)
 			(effects
 				(font
@@ -11270,7 +11342,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0433")
 					(unit 1)
 				)
 			)
@@ -11285,7 +11357,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "75447a3b-3e0a-47e6-b29f-8bb89b95405b")
-		(property "Reference" "D?"
+		(property "Reference" "D402"
 			(at 111.76 156.21 90)
 			(effects
 				(font
@@ -11294,7 +11366,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "SK84"
 			(at 111.76 158.75 90)
 			(effects
 				(font
@@ -11303,7 +11375,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMB_Handsoldering"
 			(at 109.22 157.48 0)
 			(effects
 				(font
@@ -11312,7 +11384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2922187.pdf"
 			(at 109.22 157.48 0)
 			(effects
 				(font
@@ -11330,6 +11402,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2922187"
+			(at 109.22 157.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad47eeb4-bfd1-4b23-ae43-8edf0ae03e8e")
 		)
@@ -11339,7 +11420,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "D?")
+					(reference "D402")
 					(unit 1)
 				)
 			)
@@ -11354,7 +11435,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "77d5c4ba-3100-4942-850a-02b9694f09da")
-		(property "Reference" "JP?"
+		(property "Reference" "JP401"
 			(at 229.108 39.37 0)
 			(effects
 				(font
@@ -11413,7 +11494,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP401")
 					(unit 1)
 				)
 			)
@@ -11425,11 +11506,11 @@
 		(at 45.72 121.92 90)
 		(unit 3)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7899a107-7e15-4156-b587-850308662465")
-		(property "Reference" "U?"
+		(property "Reference" "U202"
 			(at 44.45 107.95 90)
 			(effects
 				(font
@@ -11752,7 +11833,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "U?")
+					(reference "U202")
 					(unit 3)
 				)
 			)
@@ -11767,7 +11848,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b07a95c-e52b-4d40-98f9-f6bec5d4c722")
-		(property "Reference" "R?"
+		(property "Reference" "R406"
 			(at 66.04 161.29 90)
 			(effects
 				(font
@@ -11783,7 +11864,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 67.818 161.29 90)
 			(effects
 				(font
@@ -11825,7 +11906,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "R?")
+					(reference "R406")
 					(unit 1)
 				)
 			)
@@ -11841,7 +11922,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b8af333-aa03-4f15-b9d0-ab34d7fec4b9")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0423"
 			(at 153.67 115.57 0)
 			(effects
 				(font
@@ -11891,7 +11972,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0423")
 					(unit 1)
 				)
 			)
@@ -11907,7 +11988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c59b1cc-7d8b-4d25-ac79-f53d53249061")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0417"
 			(at 123.19 83.82 0)
 			(effects
 				(font
@@ -11963,7 +12044,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0417")
 					(unit 1)
 				)
 			)
@@ -11979,7 +12060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dd880e7-2e25-41c6-bbc0-10afeb915c6e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0411"
 			(at 116.84 46.99 0)
 			(effects
 				(font
@@ -12035,7 +12116,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0411")
 					(unit 1)
 				)
 			)
@@ -12046,11 +12127,11 @@
 		(at 45.72 162.56 90)
 		(unit 2)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7e9e2582-e6d7-4b3d-aacf-03788a8e1d0a")
-		(property "Reference" "U?"
+		(property "Reference" "U202"
 			(at 44.45 148.59 90)
 			(effects
 				(font
@@ -12373,7 +12454,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "U?")
+					(reference "U202")
 					(unit 2)
 				)
 			)
@@ -12388,7 +12469,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7f433441-fd8e-4ee4-a682-b00510980643")
-		(property "Reference" "JP?"
+		(property "Reference" "JP411"
 			(at 69.85 111.76 0)
 			(effects
 				(font
@@ -12433,6 +12514,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492401"
+			(at 72.39 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad57fd08-3e1b-4efd-807b-6bdd891499bc")
 		)
@@ -12442,7 +12532,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP411")
 					(unit 1)
 				)
 			)
@@ -12457,7 +12547,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "80a11166-95c8-4db3-9798-9c2fadf95cce")
-		(property "Reference" "U?"
+		(property "Reference" "U406"
 			(at 238.76 116.84 0)
 			(effects
 				(font
@@ -12551,7 +12641,7 @@
 			)
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "U?")
+					(reference "U406")
 					(unit 1)
 				)
 			)
@@ -12566,8 +12656,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "82dd0af4-d8ef-4e85-95aa-bacbd0b789b2")
-		(property "Reference" "J?"
-			(at 190.5 67.31 0)
+		(property "Reference" "J403"
+			(at 191.77 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12582,7 +12672,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 190.5 62.23 0)
 			(effects
 				(font
@@ -12609,6 +12699,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492400"
+			(at 190.5 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d76bd3fe-839d-45a4-8efb-8f70c7a2845e")
 		)
@@ -12621,7 +12720,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "J?")
+					(reference "J403")
 					(unit 1)
 				)
 			)
@@ -12637,7 +12736,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "851b80fe-fb41-460c-bd0b-20d9bb6723cc")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0421"
 			(at 231.14 83.82 0)
 			(effects
 				(font
@@ -12693,7 +12792,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0421")
 					(unit 1)
 				)
 			)
@@ -12708,7 +12807,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "86e1ae2e-9d7c-47ad-9854-8db02b004f82")
-		(property "Reference" "JP?"
+		(property "Reference" "JP415"
 			(at 69.85 152.4 0)
 			(effects
 				(font
@@ -12753,6 +12852,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492401"
+			(at 72.39 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3a30bd64-1f38-4a90-ad83-020bc9a5a5bb")
 		)
@@ -12762,7 +12870,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP415")
 					(unit 1)
 				)
 			)
@@ -12777,7 +12885,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8bc4cda2-7f16-48f9-9c45-59fdb5394e42")
-		(property "Reference" "C?"
+		(property "Reference" "C402"
 			(at 76.2 34.29 0)
 			(effects
 				(font
@@ -12795,7 +12903,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 74.6252 39.37 0)
 			(effects
 				(font
@@ -12822,7 +12930,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 73.66 35.56 0)
 			(effects
 				(font
@@ -12846,7 +12954,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C402")
 					(unit 1)
 				)
 			)
@@ -12861,7 +12969,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d2d0e67-b162-451f-8891-38930122c0a2")
-		(property "Reference" "R?"
+		(property "Reference" "R405"
 			(at 78.74 120.65 90)
 			(effects
 				(font
@@ -12877,7 +12985,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 80.518 120.65 90)
 			(effects
 				(font
@@ -12928,7 +13036,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "R?")
+					(reference "R405")
 					(unit 1)
 				)
 			)
@@ -12944,7 +13052,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "952802dc-a8cf-4bf5-b77b-3b4b95e93e4d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0405"
 			(at 144.78 33.02 0)
 			(effects
 				(font
@@ -13000,7 +13108,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0405")
 					(unit 1)
 				)
 			)
@@ -13016,7 +13124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "965278bf-8b3d-4e61-966f-1b1dc5338660")
-		(property "Reference" "U?"
+		(property "Reference" "U404"
 			(at 97.79 153.67 0)
 			(effects
 				(font
@@ -13095,6 +13203,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2058508"
+			(at 92.71 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2d6dd489-c81b-4083-a8cc-a85f4272eade")
 		)
@@ -13122,7 +13239,7 @@
 		(instances
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "U?")
+					(reference "U404")
 					(unit 2)
 				)
 			)
@@ -13137,7 +13254,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "96fe55e5-486b-497c-a300-4c8bb321ba39")
-		(property "Reference" "JP?"
+		(property "Reference" "JP404"
 			(at 236.22 51.308 0)
 			(effects
 				(font
@@ -13196,7 +13313,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP404")
 					(unit 1)
 				)
 			)
@@ -13211,7 +13328,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "994848ce-a80b-4adc-ba0d-3a5d8dbf5ed3")
-		(property "Reference" "JP?"
+		(property "Reference" "JP412"
 			(at 76.2 111.76 0)
 			(effects
 				(font
@@ -13256,6 +13373,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492401"
+			(at 78.74 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2d6d52f5-2f8f-40ba-b2e0-d23cc995028e")
 		)
@@ -13265,7 +13391,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP412")
 					(unit 1)
 				)
 			)
@@ -13281,7 +13407,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "999f4ec7-1675-4481-b9d8-6861d08ea193")
-		(property "Reference" "C?"
+		(property "Reference" "C406"
 			(at 205.74 107.95 0)
 			(effects
 				(font
@@ -13299,7 +13425,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 207.3148 113.03 0)
 			(effects
 				(font
@@ -13326,7 +13452,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 208.28 109.22 0)
 			(effects
 				(font
@@ -13350,7 +13476,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C406")
 					(unit 1)
 				)
 			)
@@ -13365,7 +13491,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "9aa98788-6f23-4cea-8f22-860fccecab44")
-		(property "Reference" "JP?"
+		(property "Reference" "JP402"
 			(at 142.748 40.64 0)
 			(effects
 				(font
@@ -13424,7 +13550,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP402")
 					(unit 1)
 				)
 			)
@@ -13440,7 +13566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a106863b-c648-4601-b24f-17cc45aa3439")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0403"
 			(at 116.84 33.02 0)
 			(effects
 				(font
@@ -13496,7 +13622,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0403")
 					(unit 1)
 				)
 			)
@@ -13512,7 +13638,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2250eb3-b807-4e32-b716-b785f314614b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0409"
 			(at 58.42 46.99 0)
 			(effects
 				(font
@@ -13568,7 +13694,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0409")
 					(unit 1)
 				)
 			)
@@ -13584,7 +13710,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5a23dc5-f81c-42c1-8af2-40f63dd671fb")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0435"
 			(at 120.65 181.61 0)
 			(effects
 				(font
@@ -13634,7 +13760,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0435")
 					(unit 1)
 				)
 			)
@@ -13649,7 +13775,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a9b05259-8f32-4f4b-ad52-7035d90190af")
-		(property "Reference" "R?"
+		(property "Reference" "R403"
 			(at 66.04 120.65 90)
 			(effects
 				(font
@@ -13665,7 +13791,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 67.818 120.65 90)
 			(effects
 				(font
@@ -13707,7 +13833,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "R?")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -13722,7 +13848,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a9f2cdc8-e1b0-47fb-9f15-fbd3561321dd")
-		(property "Reference" "JP?"
+		(property "Reference" "JP410"
 			(at 63.5 111.76 0)
 			(effects
 				(font
@@ -13767,6 +13893,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492401"
+			(at 66.04 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "656a7213-eee0-4d59-a7b8-01bf19bbd4f0")
 		)
@@ -13776,7 +13911,7 @@
 		(instances
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP410")
 					(unit 1)
 				)
 			)
@@ -13791,7 +13926,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab71da85-7e7b-4dcf-82b4-d30044560e38")
-		(property "Reference" "JP?"
+		(property "Reference" "JP414"
 			(at 63.5 152.4 0)
 			(effects
 				(font
@@ -13836,6 +13971,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492401"
+			(at 66.04 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f343c34a-afa2-422b-bbf5-ef050ef3e1fe")
 		)
@@ -13845,7 +13989,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP414")
 					(unit 1)
 				)
 			)
@@ -13861,7 +14005,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae7bd925-060a-4a91-b1e3-a77beced9c12")
-		(property "Reference" "C?"
+		(property "Reference" "C409"
 			(at 208.28 128.27 0)
 			(effects
 				(font
@@ -13879,7 +14023,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 209.8548 133.35 0)
 			(effects
 				(font
@@ -13906,7 +14050,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 210.82 129.54 0)
 			(effects
 				(font
@@ -13930,7 +14074,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C409")
 					(unit 1)
 				)
 			)
@@ -13946,7 +14090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1a62a49-3152-4bca-937d-42e461da6278")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0426"
 			(at 234.95 118.11 0)
 			(effects
 				(font
@@ -14002,7 +14146,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0426")
 					(unit 1)
 				)
 			)
@@ -14018,7 +14162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7bd3f42-1758-45db-b467-76dfadd390cb")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0431"
 			(at 227.33 140.97 0)
 			(effects
 				(font
@@ -14074,7 +14218,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0431")
 					(unit 1)
 				)
 			)
@@ -14090,7 +14234,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c955801c-e51e-4411-a227-59a3f1966665")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0404"
 			(at 134.62 33.02 0)
 			(effects
 				(font
@@ -14146,7 +14290,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0404")
 					(unit 1)
 				)
 			)
@@ -14162,7 +14306,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c96dd48a-922e-4557-8f00-eb213571f371")
-		(property "Reference" "C?"
+		(property "Reference" "C408"
 			(at 118.11 128.27 0)
 			(effects
 				(font
@@ -14180,7 +14324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 119.6848 133.35 0)
 			(effects
 				(font
@@ -14207,7 +14351,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 120.65 129.54 0)
 			(effects
 				(font
@@ -14225,7 +14369,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C408")
 					(unit 1)
 				)
 			)
@@ -14241,7 +14385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdfff1bf-cded-4ddb-bb89-28d9c6e7a0eb")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0419"
 			(at 144.78 83.82 0)
 			(effects
 				(font
@@ -14297,7 +14441,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0419")
 					(unit 1)
 				)
 			)
@@ -14313,7 +14457,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1ffe195-c50d-4af0-bc45-e51560b55c6c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0424"
 			(at 208.28 120.65 0)
 			(effects
 				(font
@@ -14369,7 +14513,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0424")
 					(unit 1)
 				)
 			)
@@ -14386,7 +14530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9d4e69a-691e-41e7-90d9-a45e2aa5668c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0415"
 			(at 45.72 64.77 0)
 			(effects
 				(font
@@ -14442,7 +14586,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0415")
 					(unit 1)
 				)
 			)
@@ -14457,7 +14601,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dc9fef50-5854-409a-b808-90caf2acaf8e")
-		(property "Reference" "JP?"
+		(property "Reference" "JP409"
 			(at 43.18 66.802 0)
 			(effects
 				(font
@@ -14516,7 +14660,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP409")
 					(unit 1)
 				)
 			)
@@ -14532,7 +14676,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfefcf16-7a6d-406a-9702-04c794d540a9")
-		(property "Reference" "J?"
+		(property "Reference" "J402"
 			(at 161.29 49.5299 0)
 			(effects
 				(font
@@ -14550,7 +14694,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 160.02 52.07 0)
 			(effects
 				(font
@@ -14577,6 +14721,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492401"
+			(at 160.02 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3253b82b-e913-4701-bc6c-2b8d23a54f04")
 		)
@@ -14592,7 +14745,7 @@
 			)
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "J?")
+					(reference "J402")
 					(unit 1)
 				)
 			)
@@ -14608,7 +14761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1f0fb8b-4fec-4b6a-9b66-089bc658e3ad")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0418"
 			(at 128.27 83.82 0)
 			(effects
 				(font
@@ -14664,7 +14817,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0418")
 					(unit 1)
 				)
 			)
@@ -14680,7 +14833,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5b33052-5497-40d2-a741-2fa3427acd69")
-		(property "Reference" "C?"
+		(property "Reference" "C403"
 			(at 114.3 34.29 0)
 			(effects
 				(font
@@ -14698,7 +14851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 115.8748 39.37 0)
 			(effects
 				(font
@@ -14725,7 +14878,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 116.84 35.56 0)
 			(effects
 				(font
@@ -14749,7 +14902,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C403")
 					(unit 1)
 				)
 			)
@@ -14765,7 +14918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e72595a1-8cdc-4f4c-b562-f812373df94b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0428"
 			(at 120.65 140.97 0)
 			(effects
 				(font
@@ -14815,7 +14968,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0428")
 					(unit 1)
 				)
 			)
@@ -14831,7 +14984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec06f80a-c05a-44ac-9ded-33b83da36bbe")
-		(property "Reference" "U?"
+		(property "Reference" "U404"
 			(at 97.79 113.03 0)
 			(effects
 				(font
@@ -14910,6 +15063,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2058508"
+			(at 92.71 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2d6dd489-c81b-4083-a8cc-a85f4272eadf")
 		)
@@ -14937,7 +15099,7 @@
 		(instances
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "U?")
+					(reference "U404")
 					(unit 1)
 				)
 			)
@@ -14952,7 +15114,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "edf486bb-ddbd-44a1-b3fc-c89aff498135")
-		(property "Reference" "JP?"
+		(property "Reference" "JP403"
 			(at 150.368 40.64 0)
 			(effects
 				(font
@@ -15011,7 +15173,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP403")
 					(unit 1)
 				)
 			)
@@ -15026,7 +15188,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f35eff61-c14b-4759-92bf-f189cb4f7b54")
-		(property "Reference" "R?"
+		(property "Reference" "R404"
 			(at 72.39 120.65 90)
 			(effects
 				(font
@@ -15042,7 +15204,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.168 120.65 90)
 			(effects
 				(font
@@ -15093,7 +15255,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "R?")
+					(reference "R404")
 					(unit 1)
 				)
 			)
@@ -15109,7 +15271,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f51af958-0438-41b0-9029-fa7fe5ee900f")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0430"
 			(at 219.71 140.97 0)
 			(effects
 				(font
@@ -15165,7 +15327,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "#PWR?")
+					(reference "#PWR0430")
 					(unit 1)
 				)
 			)
@@ -15180,7 +15342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f61ede4b-c59c-4bed-ba91-a2ba53d6d0ee")
-		(property "Reference" "C?"
+		(property "Reference" "C404"
 			(at 137.16 34.29 0)
 			(effects
 				(font
@@ -15198,7 +15360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 135.5852 39.37 0)
 			(effects
 				(font
@@ -15225,7 +15387,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 134.62 35.56 0)
 			(effects
 				(font
@@ -15249,7 +15411,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C404")
 					(unit 1)
 				)
 			)
@@ -15265,7 +15427,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fb59d528-17e2-4af4-a775-55103d04fe43")
-		(property "Reference" "C?"
+		(property "Reference" "C407"
 			(at 144.78 119.38 0)
 			(effects
 				(font
@@ -15283,7 +15445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 146.3548 124.46 0)
 			(effects
 				(font
@@ -15310,7 +15472,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 147.32 120.65 0)
 			(effects
 				(font
@@ -15328,7 +15490,7 @@
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C407")
 					(unit 1)
 				)
 			)
@@ -15343,7 +15505,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fcff7f09-7b7f-4f17-9983-d2685471d529")
-		(property "Reference" "JP?"
+		(property "Reference" "JP406"
 			(at 148.59 55.118 0)
 			(effects
 				(font
@@ -15402,7 +15564,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "JP?")
+					(reference "JP406")
 					(unit 1)
 				)
 			)
@@ -15418,7 +15580,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fe05e2a6-a0cc-4db5-bc76-914096e177d3")
-		(property "Reference" "C?"
+		(property "Reference" "C401"
 			(at 55.88 34.29 0)
 			(effects
 				(font
@@ -15436,7 +15598,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 57.4548 39.37 0)
 			(effects
 				(font
@@ -15463,7 +15625,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1525"
+		(property "LCSC" "C14663"
 			(at 58.42 35.56 0)
 			(effects
 				(font
@@ -15487,7 +15649,7 @@
 			)
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
-					(reference "C?")
+					(reference "C401")
 					(unit 1)
 				)
 			)

@@ -226,7 +226,32 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|330200|1790700|3ff91da1-115a-4dc3-b4cc-e21946b5752e|1f6c7f1d-c5e4-4f95-bb46-7e2ab0f139ba|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c",
+        ""
+      ],
+      [
+        "pin_to_pin|355600|1790700|1f6c7f1d-c5e4-4f95-bb46-7e2ab0f139ba|b28c2ed4-5241-4140-a22e-51fdc5269349|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c",
+        ""
+      ],
+      [
+        "pin_to_pin|457200|1447800|c76068e3-067b-4188-9bad-cfa09d3d0269|96d3694c-426b-4961-b095-14ede8f4297e|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c",
+        ""
+      ],
+      [
+        "pin_to_pin|457200|1511300|4d616bc2-f26d-4620-ab3b-4f149d4d404d|085a3828-07bf-46a8-a182-725d59f27f58|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c",
+        ""
+      ],
+      [
+        "pin_to_pin|457200|1536700|71509eba-a273-4654-a6f0-8afbba1a7aa2|4f8474a8-08d3-4865-b7bf-3999912adede|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1054100|1498600|75c46dca-ee8a-41a0-8969-7ca39db01464|00000000-0000-0000-0000-000000000000|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -626,8 +651,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "${DNP}"
+      "sort_asc": true,
+      "sort_field": "LCSC"
     },
     "connection_grid_size": 50.0,
     "drawing": {
