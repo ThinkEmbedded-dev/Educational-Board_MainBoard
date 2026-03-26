@@ -645,6 +645,12 @@
           "label": "Sim.Name",
           "name": "Sim.Name",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Voltage",
+          "name": "Voltage",
+          "show": false
         }
       ],
       "filter_string": "",

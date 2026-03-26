@@ -1298,6 +1298,156 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:D_Schottky"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_Schottky"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Schottky diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode Schottky"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_Schottky_0_1"
+				(polyline
+					(pts
+						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Schottky_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -1405,173 +1555,6 @@
 					(at 0 -3.81 90)
 					(length 1.27)
 					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Diode:1N4148W"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "1N4148W"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_SMD:D_SOD-123"
-				(at 0 -4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Device" "D"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Pins" "1=K 2=A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "D*SOD?123*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "1N4148W_0_1"
-				(polyline
-					(pts
-						(xy -1.27 1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "1N4148W_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6295,6 +6278,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 135.89 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "572cf110-c582-40c5-8932-11befa516e9b")
 		)
@@ -6372,6 +6364,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 246.38 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2b42332e-6b23-4120-a7d3-c2522b810ea8")
 		)
@@ -6419,7 +6420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 41.91 39.37 0)
 			(effects
 				(font
@@ -6443,6 +6444,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 41.91 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21189"
+			(at 41.91 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6516,6 +6535,15 @@
 			)
 		)
 		(property "LCSC" "C492407"
+			(at 198.12 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 198.12 140.97 0)
 			(effects
 				(font
@@ -6614,6 +6642,15 @@
 			)
 		)
 		(property "LCSC" "C60900"
+			(at 151.13 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 151.13 53.34 0)
 			(effects
 				(font
@@ -6743,6 +6780,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 129.54 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d41b1c83-edcd-46d0-aa10-dedd811f412c")
 		)
@@ -6753,101 +6799,6 @@
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "C604")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 59.69 105.41 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1c3a31f4-c7e7-4730-9659-920ac9775b68")
-		(property "Reference" "D602"
-			(at 59.69 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N4148WS"
-			(at 59.69 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
-			(at 59.69 100.965 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 59.69 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 59.69 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 59.69 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 59.69 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 59.69 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d6f4af59-bc2a-458a-ad8b-03ef23087cc2")
-		)
-		(pin "2"
-			(uuid "1daeb203-55c4-4cf3-a5bd-7d51d6424bc1")
-		)
-		(instances
-			(project "Educational-Board_MainBoard"
-				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
-					(reference "D602")
 					(unit 1)
 				)
 			)
@@ -6909,6 +6860,15 @@
 			)
 		)
 		(property "LCSC" "C14663"
+			(at 129.54 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 129.54 55.88 0)
 			(effects
 				(font
@@ -7190,6 +7150,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 135.89 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c3dd421a-1254-468d-8694-c59bb84da50e")
 		)
@@ -7266,6 +7235,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 228.6 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27911cba-8679-40a2-88ae-ead0d9e2e8aa")
 		)
@@ -7334,6 +7312,15 @@
 			)
 		)
 		(property "LCSC" "C22962"
+			(at 228.6 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 228.6 33.02 90)
 			(effects
 				(font
@@ -7419,6 +7406,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 259.08 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1d853308-570a-4785-9b0e-0c0fb8c1abd1")
 		)
@@ -7496,6 +7492,15 @@
 			)
 		)
 		(property "LCSC" "C60900"
+			(at 242.57 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 242.57 71.12 0)
 			(effects
 				(font
@@ -7692,6 +7697,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 151.13 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "6bf8527d-80eb-4ac0-ab87-74837c664647")
 		)
@@ -7813,6 +7827,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 129.54 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "288df76b-dfab-4e5e-916d-c544e1b6c2d5")
 		)
@@ -7884,6 +7907,15 @@
 			)
 		)
 		(property "LCSC" "C25804"
+			(at 36.83 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 36.83 166.37 0)
 			(effects
 				(font
@@ -7968,6 +8000,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 135.89 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e1f904ce-a80d-4011-9be7-a6feab77cc0c")
 		)
@@ -8039,6 +8080,15 @@
 			)
 		)
 		(property "LCSC" "C492401"
+			(at 179.07 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 179.07 33.02 0)
 			(effects
 				(font
@@ -8191,6 +8241,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 67.31 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "a78466ae-9b45-46e5-8a86-6767e49ffa01")
 		)
@@ -8228,7 +8287,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IRLML9301"
+		(property "Value" "IRLML9301TRPBF"
 			(at 109.474 170.18 0)
 			(effects
 				(font
@@ -8248,7 +8307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C82056.pdf"
 			(at 109.22 167.64 0)
 			(effects
 				(font
@@ -8259,6 +8318,24 @@
 			)
 		)
 		(property "Description" "-3.6A Id, -30V Vds, 64mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23"
+			(at 104.14 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C82056"
+			(at 104.14 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 104.14 171.45 0)
 			(effects
 				(font
@@ -8415,6 +8492,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 67.31 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "abf78c71-fd6a-4984-8ec4-4447f29083e5")
 		)
@@ -8452,7 +8538,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IRLML9301"
+		(property "Value" "IRLML9301TRPBF"
 			(at 109.474 138.43 0)
 			(effects
 				(font
@@ -8472,7 +8558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C82056.pdf"
 			(at 109.22 135.89 0)
 			(effects
 				(font
@@ -8483,6 +8569,24 @@
 			)
 		)
 		(property "Description" "-3.6A Id, -30V Vds, 64mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23"
+			(at 104.14 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C82056"
+			(at 104.14 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 104.14 139.7 0)
 			(effects
 				(font
@@ -8566,6 +8670,15 @@
 			)
 		)
 		(property "LCSC" "C506653"
+			(at 63.5 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 63.5 57.15 0)
 			(effects
 				(font
@@ -8731,6 +8844,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 95.25 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f596765a-cce5-4bfe-a629-7589ebf719c8")
 		)
@@ -8765,7 +8887,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IRLML9301"
+		(property "Value" "IRLML9301TRPBF"
 			(at 51.054 137.16 0)
 			(effects
 				(font
@@ -8785,7 +8907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C82056.pdf"
 			(at 50.8 134.62 0)
 			(effects
 				(font
@@ -8796,6 +8918,24 @@
 			)
 		)
 		(property "Description" "-3.6A Id, -30V Vds, 64mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23"
+			(at 45.72 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C82056"
+			(at 45.72 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 45.72 138.43 0)
 			(effects
 				(font
@@ -8878,6 +9018,15 @@
 			)
 		)
 		(property "LCSC" "C492407"
+			(at 224.79 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 224.79 140.97 0)
 			(effects
 				(font
@@ -8983,6 +9132,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 95.25 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "32409710-2a24-4dba-b46e-7eaca233de8e")
 		)
@@ -9054,6 +9212,15 @@
 			)
 		)
 		(property "LCSC" "C492402"
+			(at 125.73 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 125.73 146.05 0)
 			(effects
 				(font
@@ -9276,6 +9443,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 36.83 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "496d0512-b932-4a3c-a742-0e5dd9392db8")
 		)
@@ -9344,6 +9520,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 165.1 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "740accf5-b970-4b3b-9a8f-e6a72f28f18d")
 		)
@@ -9354,6 +9539,92 @@
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "R602")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 59.69 105.41 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "80b889ab-b9f9-4656-88d7-b2aa63bccb3d")
+		(property "Reference" "D?"
+			(at 59.182 109.982 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LMBR130T1G"
+			(at 59.944 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 59.69 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2922187.pdf"
+			(at 59.69 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 59.69 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C48974"
+			(at 59.69 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 59.69 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e6718fb6-e057-4af8-a5ed-67553b417a61")
+		)
+		(pin "1"
+			(uuid "76ad66c6-7391-47bb-961c-4f62ce0d7874")
+		)
+		(instances
+			(project "Educational-Board_MainBoard"
+				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -9478,6 +9749,15 @@
 			)
 		)
 		(property "LCSC" "C22962"
+			(at 228.6 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 228.6 86.36 90)
 			(effects
 				(font
@@ -9630,6 +9910,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 242.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "6bf8527d-80eb-4ac0-ab87-74837c664648")
 		)
@@ -9682,6 +9971,91 @@
 			(project ""
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "U602")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 59.69 101.6 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "94c2207a-904e-4df4-918e-73f7c5612359")
+		(property "Reference" "D?"
+			(at 59.436 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LMBR130T1G"
+			(at 59.944 98.552 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 59.69 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C48974.pdf"
+			(at 59.69 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 59.69 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C48974"
+			(at 59.69 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 59.69 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "123b223e-eee6-4348-9d5e-1ed8e85c5d7e")
+		)
+		(pin "1"
+			(uuid "78f7c5a4-718b-4b43-a800-dcccf79595bb")
+		)
+		(instances
+			(project "Educational-Board_MainBoard"
+				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -9743,6 +10117,15 @@
 			)
 		)
 		(property "LCSC" "C60900"
+			(at 242.57 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 242.57 53.34 0)
 			(effects
 				(font
@@ -9872,6 +10255,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 129.54 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "01093c43-f4d9-4ab2-9dcb-1d591a939595")
 		)
@@ -9944,6 +10336,15 @@
 			)
 		)
 		(property "LCSC" "C60900"
+			(at 151.13 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 151.13 88.9 0)
 			(effects
 				(font
@@ -10065,6 +10466,15 @@
 			)
 		)
 		(property "LCSC" "C492402"
+			(at 125.73 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 125.73 177.8 0)
 			(effects
 				(font
@@ -10219,6 +10629,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 233.68 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "3d039615-a10b-45bf-839b-913e9f2e8ce7")
 		)
@@ -10304,6 +10723,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 179.07 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a75a98bc-5806-4ea4-81d0-0f094344bf0b")
 		)
@@ -10372,6 +10800,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 165.1 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "08e31304-e292-4a7b-a909-acf3c9462d2e")
 		)
@@ -10406,7 +10843,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IRLML9301"
+		(property "Value" "IRLML9301TRPBF"
 			(at 51.054 170.18 0)
 			(effects
 				(font
@@ -10426,7 +10863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C82056.pdf"
 			(at 50.8 167.64 0)
 			(effects
 				(font
@@ -10437,6 +10874,24 @@
 			)
 		)
 		(property "Description" "-3.6A Id, -30V Vds, 64mOhm Rds, P-Channel HEXFET Power MOSFET, SOT-23"
+			(at 45.72 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C82056"
+			(at 45.72 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 45.72 171.45 0)
 			(effects
 				(font
@@ -10524,6 +10979,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 85.09 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04c791ae-7d67-4d53-9d6f-42b810c61371")
 		)
@@ -10592,6 +11056,15 @@
 			)
 		)
 		(property "LCSC" "C492401"
+			(at 179.07 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 179.07 86.36 0)
 			(effects
 				(font
@@ -10672,6 +11145,15 @@
 			)
 		)
 		(property "LCSC" "C60900"
+			(at 151.13 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 151.13 71.12 0)
 			(effects
 				(font
@@ -10790,6 +11272,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 165.1 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e6aab651-ea4d-4d77-a6f0-4d0b336be806")
 		)
@@ -10861,6 +11352,15 @@
 			)
 		)
 		(property "LCSC" "C60900"
+			(at 242.57 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 242.57 88.9 0)
 			(effects
 				(font
@@ -10987,6 +11487,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 135.89 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "61af7c07-5b88-43cd-b85e-c8b5e7fbca51")
 		)
@@ -11066,6 +11575,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 179.07 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "152d14e2-5b81-4631-95e8-cc8c7b6bb4af")
 		)
@@ -11134,6 +11652,15 @@
 			)
 		)
 		(property "LCSC" "C22962"
+			(at 228.6 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 228.6 50.8 90)
 			(effects
 				(font
@@ -11224,101 +11751,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148W")
-		(at 59.69 101.6 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f155d1c9-0c8b-4748-bdbe-a1c0f92881ee")
-		(property "Reference" "D601"
-			(at 59.69 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N4148WS"
-			(at 59.69 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
-			(at 59.69 106.045 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 59.69 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 59.69 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 59.69 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 59.69 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2128"
-			(at 59.69 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9f596f89-6fe7-468c-9c08-e60ceac2938d")
-		)
-		(pin "2"
-			(uuid "aee4206f-a9ac-4aa3-ae36-b9da24d1e1e2")
-		)
-		(instances
-			(project "Educational-Board_MainBoard"
-				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
-					(reference "D601")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:Jumper_2_Small_Bridged")
 		(at 41.91 36.83 0)
 		(unit 1)
@@ -11344,7 +11776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 41.91 36.83 0)
 			(effects
 				(font
@@ -11363,6 +11795,24 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, bridged"
+			(at 41.91 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 41.91 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21189"
 			(at 41.91 36.83 0)
 			(effects
 				(font
@@ -11498,6 +11948,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 165.1 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 165.1 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
