@@ -9485,7 +9485,7 @@
 				)
 			)
 		)
-		(property "Value" "570"
+		(property "Value" "560"
 			(at 165.1 30.734 90)
 			(effects
 				(font
@@ -9521,6 +9521,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 165.1 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23204"
 			(at 165.1 33.02 90)
 			(effects
 				(font
@@ -10765,7 +10774,7 @@
 				)
 			)
 		)
-		(property "Value" "570"
+		(property "Value" "560"
 			(at 165.1 84.074 90)
 			(effects
 				(font
@@ -10801,6 +10810,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 165.1 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23204"
 			(at 165.1 86.36 90)
 			(effects
 				(font
@@ -11237,7 +11255,7 @@
 				)
 			)
 		)
-		(property "Value" "570"
+		(property "Value" "560"
 			(at 165.1 66.294 90)
 			(effects
 				(font
@@ -11273,6 +11291,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 165.1 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23204"
 			(at 165.1 68.58 90)
 			(effects
 				(font
@@ -11920,7 +11947,7 @@
 				)
 			)
 		)
-		(property "Value" "570"
+		(property "Value" "560"
 			(at 165.1 48.768 90)
 			(effects
 				(font
@@ -11956,6 +11983,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 165.1 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23204"
 			(at 165.1 50.8 90)
 			(effects
 				(font

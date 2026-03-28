@@ -8716,7 +8716,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
 			(at 57.15 35.56 0)
 			(effects
 				(font
@@ -8744,6 +8744,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 57.15 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C474881"
 			(at 57.15 35.56 0)
 			(effects
 				(font

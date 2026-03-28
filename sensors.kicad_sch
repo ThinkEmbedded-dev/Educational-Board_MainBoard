@@ -8675,7 +8675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8602606255286734848"
 			(at 214.63 59.69 0)
 			(effects
 				(font
@@ -9525,7 +9525,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "56K"
+		(property "Value" "10K"
 			(at 147.32 73.6599 0)
 			(effects
 				(font
@@ -9561,7 +9561,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23206"
+		(property "LCSC" "C25804"
 			(at 144.78 72.39 0)
 			(effects
 				(font
@@ -9876,7 +9876,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "56K"
+		(property "Value" "10K"
 			(at 233.68 73.6599 0)
 			(effects
 				(font
@@ -9912,7 +9912,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23206"
+		(property "LCSC" "C25804"
 			(at 231.14 72.39 0)
 			(effects
 				(font
