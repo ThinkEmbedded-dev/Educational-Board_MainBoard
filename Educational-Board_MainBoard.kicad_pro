@@ -228,6 +228,10 @@
   "erc": {
     "erc_exclusions": [
       [
+        "lib_symbol_issues|2273300|825500|7728890c-bc28-4e55-bb23-66b91dd6daf6|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
         "pin_to_pin|2171700|774700|f5a37801-798e-4db6-8d41-867b0dc52000|a1e78ec0-908e-489b-891d-6b87dbeba5b2|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0",
         ""
       ],
@@ -490,30 +494,11 @@
   "libraries": {
     "pinned_footprint_libs": [
       "ProjectConnectors",
-      "ProjectPackage_TO_SOT_SMD",
-      "_MIA footprint",
-      "_My_boards",
-      "_MY_connectors",
-      "_My_ic",
-      "_My_inductors",
-      "_My_modules",
-      "_My_switches",
-      "_PSE"
+      "ProjectPackage_TO_SOT_SMD"
     ],
     "pinned_symbol_libs": [
       "ProjectSensors",
-      "ProjectAmplifiers",
-      "_MIA",
-      "_My_active_componet",
-      "_My_boards",
-      "_My_connectors",
-      "_My_general",
-      "_My_ic",
-      "_My_leds&dirver",
-      "_My_power_management_IC",
-      "_My_sensors",
-      "_PSE 2022",
-      "ProjectConnectors"
+      "ProjectAmplifiers"
     ]
   },
   "meta": {
@@ -580,7 +565,7 @@
       "exclude_dnp": false,
       "fields_ordered": [
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Reference",
           "name": "Reference",
           "show": true
@@ -592,13 +577,19 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Value",
           "name": "Value",
           "show": true
         },
         {
           "group_by": false,
+          "label": "Checked",
+          "name": "Checked",
+          "show": true
+        },
+        {
+          "group_by": true,
           "label": "LCSC",
           "name": "LCSC",
           "show": true

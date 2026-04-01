@@ -7036,6 +7036,15 @@
 				)
 			)
 		)
+		(property "Checked" "OK"
+			(at 95.25 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "917274fd-454b-4bd3-8e80-ac0eb3712d9f")
 		)
@@ -7189,6 +7198,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 64.77 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "085a3828-07bf-46a8-a182-725d59f27f58")
 		)
@@ -7266,6 +7284,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 166.37 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 166.37 33.02 90)
 			(effects
 				(font
@@ -7359,6 +7386,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 204.47 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "200d282d-5a83-4e67-8658-6be62f2bf4dd")
 		)
@@ -7437,6 +7473,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 85.09 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 85.09 149.86 0)
 			(effects
 				(font
@@ -7599,6 +7644,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 59.69 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9a9e68b-859f-4317-9fe2-e1d3d28312e3")
 		)
@@ -7752,6 +7806,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 204.47 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3bb14f64-bb55-4b95-b8e2-eab56fe70702")
 		)
@@ -7829,6 +7892,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 204.47 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 204.47 143.51 0)
 			(effects
 				(font
@@ -7982,6 +8054,15 @@
 			)
 		)
 		(property "LCSC" "C4177"
+			(at 191.77 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "1K8??"
 			(at 191.77 48.26 0)
 			(effects
 				(font
@@ -8284,6 +8365,15 @@
 				)
 			)
 		)
+		(property "Checked" "OK"
+			(at 118.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3fa351b-41a4-44aa-a0f5-84b3c53d8774")
 		)
@@ -8503,6 +8593,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 50.8 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cb2ba126-158e-46a2-b870-088303ca85ce")
 		)
@@ -8583,6 +8682,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 204.47 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 204.47 138.43 0)
 			(effects
 				(font
@@ -8685,6 +8793,15 @@
 				)
 			)
 		)
+		(property "Checked" "OK"
+			(at 106.68 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b62cd88-53f8-4aac-875d-d270be981bd8")
 		)
@@ -8763,6 +8880,15 @@
 			)
 		)
 		(property "LCSC" "C474881"
+			(at 57.15 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 57.15 35.56 0)
 			(effects
 				(font
@@ -9039,6 +9165,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" ""
 			(at 204.47 110.49 0)
 			(effects
 				(font
@@ -9333,7 +9468,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "93fc451d-eabf-4885-ab8e-7534bc42943c")
 		(property "Reference" "L201"
 			(at 181.61 28.5455 90)
@@ -9387,6 +9522,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 181.61 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 181.61 33.02 90)
 			(effects
 				(font
@@ -9556,6 +9700,15 @@
 				)
 			)
 		)
+		(property "Checked" "OK"
+			(at 68.58 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5305c722-1091-4401-a0ad-89da7c399cdf")
 		)
@@ -9633,6 +9786,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 204.47 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 204.47 148.59 0)
 			(effects
 				(font
@@ -9728,6 +9890,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 171.45 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b36b7f8-f626-44ec-b750-98902321f097")
 		)
@@ -9815,6 +9986,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 191.77 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29bee2d2-53b0-4e82-8171-c8eb1ac3922e")
 		)
@@ -9893,6 +10073,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 147.32 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "Footprint"
 			(at 147.32 38.1 0)
 			(effects
 				(font
@@ -9999,6 +10188,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 33.02 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" ""
 			(at 33.02 158.75 0)
 			(effects
 				(font
@@ -10124,6 +10322,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "To check value"
+			(at 58.42 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "70088b78-d1df-4c70-aeec-613d7005660f")
 		)
@@ -10202,6 +10409,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 74.93 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 74.93 149.86 0)
 			(effects
 				(font
@@ -10296,6 +10512,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 200.66 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "566d314b-667c-428d-bb60-d2eaaec33e87")
 		)
@@ -10382,6 +10607,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 222.25 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa850585-6979-4039-bea6-37342bd7c485")
 		)
@@ -10458,6 +10692,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 80.01 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 80.01 33.02 0)
 			(effects
 				(font
@@ -10552,6 +10795,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 233.68 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd4f0fa6-09bc-426b-a8cf-e81ccf722558")
 		)
@@ -10630,6 +10882,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 210.82 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 210.82 39.37 0)
 			(effects
 				(font
@@ -10849,6 +11110,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 204.47 153.67 0)
 			(effects
 				(font

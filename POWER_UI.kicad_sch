@@ -6287,6 +6287,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 135.89 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "572cf110-c582-40c5-8932-11befa516e9b")
 		)
@@ -6365,6 +6374,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 246.38 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 246.38 139.7 0)
 			(effects
 				(font
@@ -6464,6 +6482,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 41.91 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "69e1a2fd-c381-471c-9ece-4361c2f00dcc")
 		)
@@ -6552,6 +6579,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 198.12 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "eeaa8d8d-aa6d-4690-a9a1-645f8d7c2cf2")
 		)
@@ -6611,7 +6647,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm"
+		(property "Footprint" ""
 			(at 156.21 58.42 0)
 			(effects
 				(font
@@ -6651,6 +6687,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 151.13 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "Footprint"
 			(at 151.13 53.34 0)
 			(effects
 				(font
@@ -6789,6 +6834,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 129.54 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d41b1c83-edcd-46d0-aa10-dedd811f412c")
 		)
@@ -6869,6 +6923,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 129.54 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 129.54 55.88 0)
 			(effects
 				(font
@@ -7159,6 +7222,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 135.89 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c3dd421a-1254-468d-8694-c59bb84da50e")
 		)
@@ -7244,6 +7316,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 228.6 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27911cba-8679-40a2-88ae-ead0d9e2e8aa")
 		)
@@ -7321,6 +7402,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 228.6 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 228.6 33.02 90)
 			(effects
 				(font
@@ -7415,6 +7505,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 259.08 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1d853308-570a-4785-9b0e-0c0fb8c1abd1")
 		)
@@ -7461,7 +7560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm"
+		(property "Footprint" ""
 			(at 237.49 76.2 0)
 			(effects
 				(font
@@ -7501,6 +7600,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 242.57 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "Footprint"
 			(at 242.57 71.12 0)
 			(effects
 				(font
@@ -7658,7 +7766,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm"
+		(property "Footprint" ""
 			(at 156.21 40.64 0)
 			(effects
 				(font
@@ -7698,6 +7806,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 151.13 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "Footprint"
 			(at 151.13 35.56 0)
 			(effects
 				(font
@@ -7836,6 +7953,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 129.54 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "288df76b-dfab-4e5e-916d-c544e1b6c2d5")
 		)
@@ -7916,6 +8042,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 36.83 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 36.83 166.37 0)
 			(effects
 				(font
@@ -8009,6 +8144,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 135.89 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e1f904ce-a80d-4011-9be7-a6feab77cc0c")
 		)
@@ -8089,6 +8233,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 179.07 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 179.07 33.02 0)
 			(effects
 				(font
@@ -8250,6 +8403,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 67.31 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "a78466ae-9b45-46e5-8a86-6767e49ffa01")
 		)
@@ -8336,6 +8498,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 104.14 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 104.14 171.45 0)
 			(effects
 				(font
@@ -8501,6 +8672,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 67.31 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "abf78c71-fd6a-4984-8ec4-4447f29083e5")
 		)
@@ -8595,6 +8775,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 104.14 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "60afe0cd-b1d4-4da6-b5cc-e6ca9605af9d")
 		)
@@ -8679,6 +8868,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 63.5 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 63.5 57.15 0)
 			(effects
 				(font
@@ -8853,6 +9051,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 95.25 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f596765a-cce5-4bfe-a629-7589ebf719c8")
 		)
@@ -8944,6 +9151,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 45.72 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "f144a171-96fc-4116-836f-5075869cd01f")
 		)
@@ -9027,6 +9243,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 224.79 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 224.79 140.97 0)
 			(effects
 				(font
@@ -9141,6 +9366,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 95.25 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "32409710-2a24-4dba-b46e-7eaca233de8e")
 		)
@@ -9221,6 +9455,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 125.73 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 125.73 146.05 0)
 			(effects
 				(font
@@ -9452,6 +9695,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 36.83 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "496d0512-b932-4a3c-a742-0e5dd9392db8")
 		)
@@ -9538,6 +9790,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 165.1 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "740accf5-b970-4b3b-9a8f-e6a72f28f18d")
 		)
@@ -9616,6 +9877,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 59.69 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 59.69 105.41 0)
 			(effects
 				(font
@@ -9775,6 +10045,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 228.6 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aa823ae5-8ff2-4b23-b383-b2cbf76fdb7b")
 		)
@@ -9880,7 +10159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm"
+		(property "Footprint" ""
 			(at 237.49 40.64 0)
 			(effects
 				(font
@@ -9920,6 +10199,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 242.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "Footprint"
 			(at 242.57 35.56 0)
 			(effects
 				(font
@@ -10055,6 +10343,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 59.69 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "123b223e-eee6-4348-9d5e-1ed8e85c5d7e")
 		)
@@ -10095,7 +10392,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm"
+		(property "Footprint" ""
 			(at 237.49 58.42 0)
 			(effects
 				(font
@@ -10135,6 +10432,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 242.57 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "Footprint"
 			(at 242.57 53.34 0)
 			(effects
 				(font
@@ -10273,6 +10579,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 129.54 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "01093c43-f4d9-4ab2-9dcb-1d591a939595")
 		)
@@ -10314,7 +10629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm"
+		(property "Footprint" ""
 			(at 156.21 93.98 0)
 			(effects
 				(font
@@ -10354,6 +10669,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 151.13 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "Footprint"
 			(at 151.13 88.9 0)
 			(effects
 				(font
@@ -10484,6 +10808,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 125.73 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 125.73 177.8 0)
 			(effects
 				(font
@@ -10647,6 +10980,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 233.68 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "3d039615-a10b-45bf-839b-913e9f2e8ce7")
 		)
@@ -10741,6 +11083,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 179.07 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a75a98bc-5806-4ea4-81d0-0f094344bf0b")
 		)
@@ -10819,6 +11170,15 @@
 			)
 		)
 		(property "LCSC" "C23204"
+			(at 165.1 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 165.1 86.36 90)
 			(effects
 				(font
@@ -10918,6 +11278,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 45.72 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "53949507-e630-4b65-b134-e319e6741235")
 		)
@@ -10998,6 +11367,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 85.09 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 85.09 101.6 0)
 			(effects
 				(font
@@ -11091,6 +11469,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 179.07 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "51829aca-31bc-4b0c-b274-ab00748fb23f")
 		)
@@ -11132,7 +11519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm"
+		(property "Footprint" ""
 			(at 156.21 76.2 0)
 			(effects
 				(font
@@ -11172,6 +11559,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 151.13 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "Footprint"
 			(at 151.13 71.12 0)
 			(effects
 				(font
@@ -11308,6 +11704,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 165.1 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e6aab651-ea4d-4d77-a6f0-4d0b336be806")
 		)
@@ -11348,7 +11753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm"
+		(property "Footprint" ""
 			(at 237.49 93.98 0)
 			(effects
 				(font
@@ -11388,6 +11793,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 242.57 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "Footprint"
 			(at 242.57 88.9 0)
 			(effects
 				(font
@@ -11523,6 +11937,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 135.89 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "61af7c07-5b88-43cd-b85e-c8b5e7fbca51")
 		)
@@ -11611,6 +12034,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 179.07 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "152d14e2-5b81-4631-95e8-cc8c7b6bb4af")
 		)
@@ -11688,6 +12120,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 228.6 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 228.6 50.8 90)
 			(effects
 				(font
@@ -11848,6 +12289,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 41.91 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e9cc3d8-f6cd-4b4e-9a54-8f5e3a1d2ce4")
 		)
@@ -11992,6 +12442,15 @@
 			)
 		)
 		(property "LCSC" "C23204"
+			(at 165.1 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 165.1 50.8 90)
 			(effects
 				(font
