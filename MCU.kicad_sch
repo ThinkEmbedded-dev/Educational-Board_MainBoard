@@ -4377,7 +4377,7 @@
 			(uuid "a5c9d355-7d1b-44f2-a34b-d0225c18a7af")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd"
 					(reference "#FLG0301")
 					(unit 1)
@@ -4721,7 +4721,7 @@
 			(uuid "889a63a2-430c-42c7-bddc-d6b4ebd8bebc")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd"
 					(reference "U202")
 					(unit 1)
@@ -4959,7 +4959,7 @@
 			(uuid "e13553bb-f78b-48c3-a7f3-1bf226b72f2f")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd"
 					(reference "JP303")
 					(unit 1)
@@ -5025,7 +5025,7 @@
 			(uuid "3a179fe4-75cf-46b6-a387-a7b6406ebc75")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd"
 					(reference "#PWR0305")
 					(unit 1)
@@ -5091,7 +5091,7 @@
 			(uuid "75c46dca-ee8a-41a0-8969-7ca39db01464")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd"
 					(reference "#PWR0304")
 					(unit 1)
@@ -5188,7 +5188,7 @@
 			(uuid "dce6cfeb-5e9e-409b-8f2b-08a8426dc452")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd"
 					(reference "D301")
 					(unit 1)
@@ -5428,7 +5428,7 @@
 			(uuid "ec754992-2be9-49d1-a9d4-fe414d99759f")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd"
 					(reference "#FLG0302")
 					(unit 1)
@@ -5906,7 +5906,7 @@
 			(uuid "90314b72-df3e-43ef-afb7-5449355a1c6a")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a718e7a0-c449-4532-ac19-5f778084acdd"
 					(reference "#PWR0303")
 					(unit 1)

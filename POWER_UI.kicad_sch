@@ -6577,7 +6577,7 @@
 			(uuid "29a941ba-bb0b-4992-ab79-265eb99cb27f")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "J609")
 					(unit 1)
@@ -6950,7 +6950,7 @@
 			(uuid "7f6b33f5-6717-4681-89e8-141e247a8dff")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "#PWR0611")
 					(unit 1)
@@ -7081,7 +7081,7 @@
 			(uuid "58131862-ee06-48b6-b09a-3e6496527448")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "#PWR0613")
 					(unit 1)
@@ -7336,7 +7336,7 @@
 			(uuid "cb3d3bd7-73f7-4570-840c-579aade55de9")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "R603")
 					(unit 1)
@@ -7558,7 +7558,7 @@
 			(uuid "96a7158d-df5e-4f65-a0e5-ba323c83db3a")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "U602")
 					(unit 3)
@@ -8104,7 +8104,7 @@
 			(uuid "9b5f0c4a-7d6c-4ac4-bb7c-9915229f82c6")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "J601")
 					(unit 1)
@@ -8169,7 +8169,7 @@
 			(uuid "c2612878-b8ae-492a-8c1b-5132c40f4a53")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "#PWR0610")
 					(unit 1)
@@ -9239,7 +9239,7 @@
 			(uuid "5f8c8c0d-dd77-4980-a1d6-bb6e39ba863e")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "J612")
 					(unit 1)
@@ -9371,7 +9371,7 @@
 			(uuid "1aed6a2f-fd61-4e68-a47b-a35bf1161b72")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "#PWR0612")
 					(unit 1)
@@ -9977,7 +9977,7 @@
 			(uuid "96a7158d-df5e-4f65-a0e5-ba323c83db3b")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "U602")
 					(unit 1)
@@ -10192,7 +10192,7 @@
 			(uuid "96a7158d-df5e-4f65-a0e5-ba323c83db3c")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "U602")
 					(unit 2)
@@ -10660,7 +10660,7 @@
 			(uuid "a9b3582c-2287-44f6-be34-007764f06df3")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "J606")
 					(unit 1)
@@ -10748,7 +10748,7 @@
 			(uuid "19a792b9-0702-4e5c-aae3-f5ace0d0cb48")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "J603")
 					(unit 1)
@@ -11098,7 +11098,7 @@
 			(uuid "36dfb31f-ab92-4570-b19d-8ba1a04b660a")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "J604")
 					(unit 1)
@@ -11445,7 +11445,7 @@
 			(uuid "96a7158d-df5e-4f65-a0e5-ba323c83db3f")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "U602")
 					(unit 4)
@@ -11618,7 +11618,7 @@
 			(uuid "c01dda71-5857-4b2c-8623-5260694ad8cd")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/ba7e13a3-22c7-43a3-af0e-4fb3e1cec0f6"
 					(reference "J602")
 					(unit 1)

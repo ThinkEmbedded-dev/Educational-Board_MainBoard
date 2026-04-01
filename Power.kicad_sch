@@ -7109,7 +7109,7 @@
 			(uuid "5468df60-80cb-4f3a-b097-606bdb149a2e")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c"
 					(reference "#PWR0201")
 					(unit 1)
@@ -7307,7 +7307,7 @@
 			)
 		)
 		(property "Value" "LMBR130T1G"
-			(at 202.438 135.89 0)
+			(at 199.39 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7700,7 +7700,7 @@
 			)
 		)
 		(property "Value" "LMBR130T1G"
-			(at 200.66 130.81 0)
+			(at 199.39 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7785,7 +7785,7 @@
 			)
 		)
 		(property "Value" "LMBR130T1G"
-			(at 202.438 146.05 0)
+			(at 199.39 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8197,7 +8197,7 @@
 			(uuid "c3ed9be3-18da-4f61-8fca-db2c4b18090d")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c"
 					(reference "#PWR0205")
 					(unit 1)
@@ -8356,7 +8356,7 @@
 			(uuid "2b27d64f-61d3-45c5-83fc-2a58f26c8789")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c"
 					(reference "#FLG0204")
 					(unit 1)
@@ -8513,7 +8513,7 @@
 			(uuid "3b1d55d3-3362-4522-beca-a6fa2c585185")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c"
 					(reference "JP201")
 					(unit 1)
@@ -8539,7 +8539,7 @@
 			)
 		)
 		(property "Value" "LMBR130T1G"
-			(at 202.438 140.97 0)
+			(at 199.39 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8778,7 +8778,7 @@
 			(uuid "f8b36272-8c00-48aa-9cd7-0ff1423c46a3")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c"
 					(reference "J201")
 					(unit 1)
@@ -8910,7 +8910,7 @@
 			(uuid "8101b0c6-1a38-44e7-9555-f06442ae9e0e")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c"
 					(reference "#FLG0201")
 					(unit 1)
@@ -8976,7 +8976,7 @@
 			(uuid "5214054b-aec4-4cff-8cf4-5831f57f64e1")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c"
 					(reference "#PWR0206")
 					(unit 1)
@@ -9318,7 +9318,7 @@
 			(uuid "43ad7b03-d348-4f37-be7e-285b5bb7fc5d")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c"
 					(reference "U202")
 					(unit 4)
@@ -9333,7 +9333,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "93fc451d-eabf-4885-ab8e-7534bc42943c")
 		(property "Reference" "L201"
 			(at 181.61 28.5455 90)
@@ -9589,7 +9589,7 @@
 			)
 		)
 		(property "Value" "LMBR130T1G"
-			(at 202.438 151.13 0)
+			(at 199.39 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10779,7 +10779,7 @@
 			(uuid "f0adba9e-b7dc-4785-8bac-d9e2f88dc571")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c"
 					(reference "#PWR0202")
 					(unit 1)
@@ -10805,7 +10805,7 @@
 			)
 		)
 		(property "Value" "LMBR130T1G"
-			(at 202.438 156.21 0)
+			(at 198.12 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)

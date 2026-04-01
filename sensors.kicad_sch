@@ -8742,7 +8742,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "U403")
 					(unit 1)
@@ -8974,7 +8974,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "#PWR0425")
 					(unit 1)
@@ -9193,7 +9193,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "J401")
 					(unit 1)
@@ -9253,7 +9253,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C3013349"
 			(at 72.39 161.29 90)
 			(effects
 				(font
@@ -9426,7 +9426,7 @@
 			(uuid "6e16dd80-1d2d-48af-afcb-03396ed3e0ed")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "U404")
 					(unit 3)
@@ -9592,7 +9592,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "R401")
 					(unit 1)
@@ -11129,7 +11129,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "U402")
 					(unit 1)
@@ -11366,7 +11366,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "#PWR0432")
 					(unit 1)
@@ -12099,6 +12099,15 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 66.04 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2090841"
 			(at 66.04 161.29 90)
 			(effects
 				(font
@@ -12882,7 +12891,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "U406")
 					(unit 1)
@@ -13282,7 +13291,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C3013345"
 			(at 78.74 120.65 90)
 			(effects
 				(font
@@ -13525,7 +13534,7 @@
 			(uuid "6e16dd80-1d2d-48af-afcb-03396ed3e0ee")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "U404")
 					(unit 2)
@@ -13811,7 +13820,7 @@
 		(at 144.78 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "9aa98788-6f23-4cea-8f22-860fccecab44")
@@ -14169,6 +14178,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2090841"
+			(at 66.04 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a5cdf617-25c5-4c96-b99d-31e393847153")
 		)
@@ -14269,7 +14287,7 @@
 			(uuid "0559e3c2-1eb3-4b35-92b0-28e59352c7c4")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "JP410")
 					(unit 1)
@@ -15157,7 +15175,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "J402")
 					(unit 1)
@@ -15529,7 +15547,7 @@
 			(uuid "6e16dd80-1d2d-48af-afcb-03396ed3e0ef")
 		)
 		(instances
-			(project ""
+			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb"
 					(reference "U404")
 					(unit 1)
@@ -15681,7 +15699,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C3013349"
 			(at 72.39 120.65 90)
 			(effects
 				(font
