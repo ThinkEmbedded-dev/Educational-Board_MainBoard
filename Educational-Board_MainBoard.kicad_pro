@@ -228,6 +228,14 @@
   "erc": {
     "erc_exclusions": [
       [
+        "pin_to_pin|2171700|774700|f5a37801-798e-4db6-8d41-867b0dc52000|a1e78ec0-908e-489b-891d-6b87dbeba5b2|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0",
+        ""
+      ],
+      [
+        "pin_to_pin|2171700|800100|966dce9a-40f8-4755-a3aa-6ecf8e45f51e|41a75fef-5a0c-46b5-a351-e6e87cdecab8|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/4cd73753-9d62-4e71-9011-aaea0e9d47c0",
+        ""
+      ],
+      [
         "pin_to_pin|330200|1790700|3ff91da1-115a-4dc3-b4cc-e21946b5752e|1f6c7f1d-c5e4-4f95-bb46-7e2ab0f139ba|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c",
         ""
       ],
@@ -245,6 +253,14 @@
       ],
       [
         "pin_to_pin|457200|1536700|71509eba-a273-4654-a6f0-8afbba1a7aa2|4f8474a8-08d3-4865-b7bf-3999912adede|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c",
+        ""
+      ],
+      [
+        "pin_to_pin|495300|520700|11b28a99-cb86-45e6-bdba-8b1d45553198|1f6c7f1d-c5e4-4f95-bb46-7e2ab0f139ba|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c",
+        ""
+      ],
+      [
+        "pin_to_pin|495300|546100|0952c197-d3b8-4c58-a954-fc21053c0a5d|1f6c7f1d-c5e4-4f95-bb46-7e2ab0f139ba|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/fff2b078-1c83-42d8-b24c-4d93ca90abbb|/835b4df9-7d62-45f4-81d2-5a64fbc86f3c/a1b70c1b-93fd-432d-b3bf-990581065c7c",
         ""
       ],
       [
@@ -474,11 +490,30 @@
   "libraries": {
     "pinned_footprint_libs": [
       "ProjectConnectors",
-      "ProjectPackage_TO_SOT_SMD"
+      "ProjectPackage_TO_SOT_SMD",
+      "_MIA footprint",
+      "_My_boards",
+      "_MY_connectors",
+      "_My_ic",
+      "_My_inductors",
+      "_My_modules",
+      "_My_switches",
+      "_PSE"
     ],
     "pinned_symbol_libs": [
       "ProjectSensors",
-      "ProjectAmplifiers"
+      "ProjectAmplifiers",
+      "_MIA",
+      "_My_active_componet",
+      "_My_boards",
+      "_My_connectors",
+      "_My_general",
+      "_My_ic",
+      "_My_leds&dirver",
+      "_My_power_management_IC",
+      "_My_sensors",
+      "_PSE 2022",
+      "ProjectConnectors"
     ]
   },
   "meta": {

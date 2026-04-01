@@ -2283,7 +2283,7 @@
 	)
 	(rectangle
 		(start 129.54 62.23)
-		(end 181.61 102.87)
+		(end 184.15 102.87)
 		(stroke
 			(width 0)
 			(type dash_dot_dot)
@@ -4830,7 +4830,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ProjectConnectors:Buzzer MLT-7525"
 			(at 168.275 71.12 90)
 			(effects
 				(font
