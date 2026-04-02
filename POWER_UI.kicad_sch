@@ -6695,7 +6695,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Footprint"
+		(property "Checked" "E- Footprint"
 			(at 151.13 53.34 0)
 			(effects
 				(font
@@ -7608,7 +7608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Footprint"
+		(property "Checked" "E- Footprint"
 			(at 242.57 71.12 0)
 			(effects
 				(font
@@ -7814,7 +7814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Footprint"
+		(property "Checked" "E- Footprint"
 			(at 151.13 35.56 0)
 			(effects
 				(font
@@ -10207,7 +10207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Footprint"
+		(property "Checked" "E- Footprint"
 			(at 242.57 35.56 0)
 			(effects
 				(font
@@ -10440,7 +10440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Footprint"
+		(property "Checked" "E- Footprint"
 			(at 242.57 53.34 0)
 			(effects
 				(font
@@ -10677,7 +10677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Footprint"
+		(property "Checked" "E- Footprint"
 			(at 151.13 88.9 0)
 			(effects
 				(font
@@ -11567,7 +11567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Footprint"
+		(property "Checked" "E- Footprint"
 			(at 151.13 71.12 0)
 			(effects
 				(font
@@ -11801,7 +11801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Footprint"
+		(property "Checked" "E- Footprint"
 			(at 242.57 88.9 0)
 			(effects
 				(font

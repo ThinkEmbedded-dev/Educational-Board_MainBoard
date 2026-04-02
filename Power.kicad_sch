@@ -8062,7 +8062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "1K8??"
+		(property "Checked" "E- 1K8??"
 			(at 191.77 48.26 0)
 			(effects
 				(font
@@ -10081,7 +10081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Footprint"
+		(property "Checked" "E- Footprint"
 			(at 147.32 38.1 0)
 			(effects
 				(font
@@ -10196,7 +10196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" ""
+		(property "Checked" "OK"
 			(at 33.02 158.75 0)
 			(effects
 				(font
@@ -10322,7 +10322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "To check value"
+		(property "Checked" "E - To check value"
 			(at 58.42 144.78 90)
 			(effects
 				(font

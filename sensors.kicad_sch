@@ -8711,7 +8711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" ""
+		(property "Checked" "OK"
 			(at 214.63 59.69 0)
 			(effects
 				(font
@@ -9074,7 +9074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "Maybe more power?"
+		(property "Checked" "E- Maybe more power?"
 			(at 64.77 59.69 0)
 			(effects
 				(font
@@ -9307,7 +9307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" ""
+		(property "Checked" "OK"
 			(at 72.39 161.29 90)
 			(effects
 				(font
@@ -13049,7 +13049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" ""
+		(property "Checked" "OK"
 			(at 227.33 124.46 0)
 			(effects
 				(font
@@ -13543,7 +13543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" ""
+		(property "Checked" "OK"
 			(at 78.74 120.65 90)
 			(effects
 				(font
@@ -16095,7 +16095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" ""
+		(property "Checked" "OK"
 			(at 72.39 120.65 90)
 			(effects
 				(font
