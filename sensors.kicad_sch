@@ -11886,7 +11886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjectConnectors:Nucleo64"
+		(property "Footprint" "ProjectConnectors:Nucleo64_ST-Morpho"
 			(at 75.438 149.098 0)
 			(effects
 				(font
@@ -12552,7 +12552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProjectConnectors:Nucleo64"
+		(property "Footprint" "ProjectConnectors:Nucleo64_ST-Morpho"
 			(at 75.438 189.738 0)
 			(effects
 				(font

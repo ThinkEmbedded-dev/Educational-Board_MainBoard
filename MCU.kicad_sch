@@ -4431,7 +4431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProjectConnectors:Nucleo64"
+		(property "Footprint" "ProjectConnectors:Nucleo64_ST-Morpho"
 			(at 65.532 128.778 0)
 			(effects
 				(font
