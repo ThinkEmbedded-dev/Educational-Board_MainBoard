@@ -4058,7 +4058,7 @@
 		)
 		(uuid "91d5126f-8365-4d61-9224-e5c1f568664e")
 	)
-	(hierarchical_label "I2C1_SCL"
+	(hierarchical_label "I2C_SCL"
 		(shape bidirectional)
 		(at 234.95 53.34 0)
 		(effects

@@ -6712,7 +6712,7 @@
 		)
 		(uuid "632e170a-8d8b-4da7-96a9-68948f468f56")
 	)
-	(text "LIGTH SENSOR"
+	(text "LIGHT SENSOR"
 		(exclude_from_sim no)
 		(at 186.69 20.32 0)
 		(effects
@@ -7640,16 +7640,6 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 53.34) (xy 240.03 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6dbaf53d-7bf9-4d91-b325-62cdb20ba2fa")
-	)
-	(wire
-		(pts
 			(xy 144.78 29.21) (xy 144.78 38.1)
 		)
 		(stroke
@@ -7697,6 +7687,16 @@
 			(type default)
 		)
 		(uuid "777f85cf-d575-421b-a331-e837caca9132")
+	)
+	(wire
+		(pts
+			(xy 238.76 55.88) (xy 241.3 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "784de835-806e-42e3-9f2c-acc27ee8bc39")
 	)
 	(wire
 		(pts
@@ -7947,16 +7947,6 @@
 			(type default)
 		)
 		(uuid "a9b9d5e7-6cb5-46c0-a190-95db446e3b40")
-	)
-	(wire
-		(pts
-			(xy 238.76 55.88) (xy 240.03 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac4c4591-4f55-49ef-9223-c247418ec2fc")
 	)
 	(wire
 		(pts
@@ -8300,6 +8290,16 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 53.34) (xy 241.3 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6f78067-807c-4796-a708-580848f1e12a")
+	)
+	(wire
+		(pts
 			(xy 109.22 111.76) (xy 109.22 114.3)
 		)
 		(stroke
@@ -8530,7 +8530,7 @@
 	)
 	(hierarchical_label "I2C1_SCL"
 		(shape bidirectional)
-		(at 240.03 53.34 0)
+		(at 241.3 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8607,7 +8607,7 @@
 	)
 	(hierarchical_label "I2C1_SDA"
 		(shape bidirectional)
-		(at 240.03 55.88 0)
+		(at 241.3 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
