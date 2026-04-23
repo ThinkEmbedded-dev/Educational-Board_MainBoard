@@ -4911,7 +4911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProjectConnectors:Buzzer MLT-7525"
+		(property "Footprint" "ProjectConnectors:MLT-8530"
 			(at 168.275 71.12 90)
 			(effects
 				(font

@@ -9074,7 +9074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "E- Maybe more power?"
+		(property "Checked" "E- Maybe more power?, Footprint to add silkscreen axes"
 			(at 64.77 59.69 0)
 			(effects
 				(font

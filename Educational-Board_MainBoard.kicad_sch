@@ -484,6 +484,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 238.76 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c"
@@ -540,6 +549,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 238.76 88.9 0)
 			(effects
 				(font
@@ -612,6 +630,15 @@
 				(hide yes)
 			)
 		)
+		(property "Checked" "OK"
+			(at 238.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Educational-Board_MainBoard"
 				(path "/835b4df9-7d62-45f4-81d2-5a64fbc86f3c"
@@ -668,6 +695,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 238.76 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Checked" "OK"
 			(at 238.76 82.55 0)
 			(effects
 				(font

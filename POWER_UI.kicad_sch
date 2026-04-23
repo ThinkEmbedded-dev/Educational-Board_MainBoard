@@ -6647,7 +6647,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
 			(at 156.21 58.42 0)
 			(effects
 				(font
@@ -6695,7 +6695,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "E- Footprint"
+		(property "Checked" "OK"
 			(at 151.13 53.34 0)
 			(effects
 				(font
@@ -7560,7 +7560,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
 			(at 237.49 76.2 0)
 			(effects
 				(font
@@ -7608,7 +7608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "E- Footprint"
+		(property "Checked" "OK"
 			(at 242.57 71.12 0)
 			(effects
 				(font
@@ -7766,7 +7766,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
 			(at 156.21 40.64 0)
 			(effects
 				(font
@@ -7814,7 +7814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "E- Footprint"
+		(property "Checked" "OK"
 			(at 151.13 35.56 0)
 			(effects
 				(font
@@ -10159,7 +10159,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
 			(at 237.49 40.64 0)
 			(effects
 				(font
@@ -10207,7 +10207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "E- Footprint"
+		(property "Checked" "OK"
 			(at 242.57 35.56 0)
 			(effects
 				(font
@@ -10392,7 +10392,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
 			(at 237.49 58.42 0)
 			(effects
 				(font
@@ -10440,7 +10440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "E- Footprint"
+		(property "Checked" "OK"
 			(at 242.57 53.34 0)
 			(effects
 				(font
@@ -10629,7 +10629,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
 			(at 156.21 93.98 0)
 			(effects
 				(font
@@ -10677,7 +10677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "E- Footprint"
+		(property "Checked" "OK"
 			(at 151.13 88.9 0)
 			(effects
 				(font
@@ -11519,7 +11519,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
 			(at 156.21 76.2 0)
 			(effects
 				(font
@@ -11567,7 +11567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "E- Footprint"
+		(property "Checked" "OK"
 			(at 151.13 71.12 0)
 			(effects
 				(font
@@ -11753,7 +11753,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
 			(at 237.49 93.98 0)
 			(effects
 				(font
@@ -11801,7 +11801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Checked" "E- Footprint"
+		(property "Checked" "OK"
 			(at 242.57 88.9 0)
 			(effects
 				(font
