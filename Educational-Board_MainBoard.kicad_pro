@@ -549,14 +549,24 @@
       },
       {
         "clearance": 0.2,
+        "name": "MCU_pw",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(255, 153, 0)",
+        "track_width": 0.35,
+        "via_diameter": 0.85,
+        "via_drill": 0.4
+      },
+      {
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgb(194, 0, 0)",
         "track_width": 0.5,
         "via_diameter": 1.2,
         "via_drill": 0.6
@@ -678,8 +688,40 @@
         "pattern": "/Power/PH_BUCK"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "/Power/OUT_BUCK"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/"
+      },
+      {
+        "netclass": "MCU_pw",
+        "pattern": "/MCU/NUCLEO_VDD"
+      },
+      {
+        "netclass": "MCU_pw",
+        "pattern": "/MCU/NUCLEO_3V3"
+      },
+      {
+        "netclass": "MCU_pw",
+        "pattern": "GNDA"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VCC"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Power/VIN"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Power/BOOT_BUCK"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+5V"
       }
     ]
   },
