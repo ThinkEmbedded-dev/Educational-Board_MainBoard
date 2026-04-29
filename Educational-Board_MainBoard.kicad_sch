@@ -1032,7 +1032,7 @@
 				(justify right)
 			)
 		)
-		(pin "I2C1_SCL" bidirectional
+		(pin "I2C_SCL" bidirectional
 			(at 144.78 72.39 0)
 			(uuid "b3a291ce-dfab-4d89-b550-71606ed6aaca")
 			(effects
