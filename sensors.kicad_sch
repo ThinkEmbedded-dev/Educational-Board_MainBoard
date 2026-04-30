@@ -13183,7 +13183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C37323746.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QlcKVlRVR1hcXlFVRlUNAwUDQFZcXlBREVBZBVZUElYxVlNRQFRWVVJXQ1lZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slTlRcXl1IHxUDCw%3D%3D"
 			(at 227.33 124.46 0)
 			(effects
 				(font
