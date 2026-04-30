@@ -651,13 +651,13 @@
         "Power"
       ],
       "Net-(JP410-A)": [
-        "Power"
+        "MCU_pw"
       ],
       "Net-(JP411-A)": [
-        "Power"
+        "MCU_pw"
       ],
       "Net-(JP412-A)": [
-        "Power"
+        "MCU_pw"
       ],
       "Net-(JP414-A)": [
         "MCU_pw"
@@ -740,11 +740,11 @@
         "pattern": "+5V"
       },
       {
-        "netclass": "Power",
+        "netclass": "MCU_pw",
         "pattern": "/Sensors/SHUNT_3V3"
       },
       {
-        "netclass": "Power",
+        "netclass": "MCU_pw",
         "pattern": "/Sensors/SHUNT_VDD"
       },
       {

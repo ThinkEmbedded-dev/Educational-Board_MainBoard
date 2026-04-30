@@ -8661,36 +8661,6 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 72.39 115.57 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2993ae60-1bb4-4257-9dfd-bb2cf973391a")
-		(property "Netclass" "Power"
-			(at 73.66 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -66.04 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
 		(at 72.39 157.48 270)
 		(effects
 			(font
@@ -8721,16 +8691,16 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 78.74 115.5354 270)
+		(at 72.39 115.57 270)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "7e1ed389-f61c-463b-9654-fd7eeb0ea8ac")
-		(property "Netclass" "Power"
-			(at 80.01 115.5354 90)
+		(uuid "57fe7a6f-97c4-4831-9e04-4d65bb5d612d")
+		(property "Netclass" "MCU_pw"
+			(at 73.66 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8739,7 +8709,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at -59.69 2.5054 0)
+			(at -66.04 2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8781,6 +8751,36 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
+		(at 78.74 115.57 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "90d2c1f3-6b18-4fe3-a2a7-5cfd2e7510bf")
+		(property "Netclass" "MCU_pw"
+			(at 80.01 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -59.69 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
 		(at 66.04 115.57 270)
 		(effects
 			(font
@@ -8789,7 +8789,7 @@
 			(justify right bottom)
 		)
 		(uuid "e38b29f5-4e4e-4ebd-afef-6f667edafb46")
-		(property "Netclass" "Power"
+		(property "Netclass" "MCU_pw"
 			(at 67.31 115.57 90)
 			(effects
 				(font
