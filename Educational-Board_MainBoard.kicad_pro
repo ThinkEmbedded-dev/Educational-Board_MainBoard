@@ -188,7 +188,8 @@
       ],
       "track_widths": [
         0.0,
-        0.2
+        0.2,
+        0.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -649,6 +650,21 @@
       "Net-(J614-Pin_2)": [
         "Power"
       ],
+      "Net-(JP410-A)": [
+        "Power"
+      ],
+      "Net-(JP411-A)": [
+        "Power"
+      ],
+      "Net-(JP412-A)": [
+        "Power"
+      ],
+      "Net-(JP414-A)": [
+        "MCU_pw"
+      ],
+      "Net-(JP415-A)": [
+        "MCU_pw"
+      ],
       "Net-(R602-Pad2)": [
         "Power"
       ],
@@ -722,6 +738,18 @@
       {
         "netclass": "Power",
         "pattern": "+5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Sensors/SHUNT_3V3"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Sensors/SHUNT_VDD"
+      },
+      {
+        "netclass": "MCU_pw",
+        "pattern": "/Sensors/SHUNT_MCU_VDD"
       }
     ]
   },
