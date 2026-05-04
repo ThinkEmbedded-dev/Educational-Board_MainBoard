@@ -7098,7 +7098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5248080.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=ElYPBF1VFFcMAwEFElVaVlEHRVFdU1VeTwBYVFJTElUxVlNRQFhfXlRSQFJdUTsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D"
 			(at 212.09 90.17 0)
 			(effects
 				(font
