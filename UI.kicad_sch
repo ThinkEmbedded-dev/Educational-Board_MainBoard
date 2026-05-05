@@ -4009,7 +4009,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
+		(property "Footprint" "ProjectConnectors:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
 			(at 59.69 83.82 0)
 			(effects
 				(font
@@ -7901,7 +7901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
+		(property "Footprint" "ProjectConnectors:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
 			(at 111.76 118.11 0)
 			(effects
 				(font
@@ -8696,7 +8696,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
+		(property "Footprint" "ProjectConnectors:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
 			(at 111.76 83.82 0)
 			(effects
 				(font
@@ -9587,7 +9587,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
+		(property "Footprint" "ProjectConnectors:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
 			(at 59.69 154.94 0)
 			(effects
 				(font
@@ -9749,7 +9749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
+		(property "Footprint" "ProjectConnectors:SW_Push_1P1T_NO_CK_PTS125Sx43SMTR"
 			(at 59.69 118.11 0)
 			(effects
 				(font

@@ -3214,6 +3214,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 124.46) (xy 120.65 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16a20fab-e94a-43cc-9afb-b469bd5672b6")
+	)
+	(wire
+		(pts
 			(xy 86.36 148.59) (xy 88.9 148.59)
 		)
 		(stroke
@@ -3354,16 +3364,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 124.46) (xy 135.89 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b328bb8-6908-48df-8f05-5a80c23421e5")
-	)
-	(wire
-		(pts
 			(xy 226.06 53.34) (xy 232.41 53.34)
 		)
 		(stroke
@@ -3421,16 +3421,6 @@
 			(type default)
 		)
 		(uuid "453fff9a-1d3f-4a53-9f1b-54050b1206e4")
-	)
-	(wire
-		(pts
-			(xy 49.53 119.38) (xy 64.77 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b6f3008-342c-4b9c-9968-2d124207309a")
 	)
 	(wire
 		(pts
@@ -3641,6 +3631,16 @@
 			(type default)
 		)
 		(uuid "a3ac2704-de10-42c8-8f25-f560f7cdf627")
+	)
+	(wire
+		(pts
+			(xy 64.77 119.38) (xy 49.53 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ace7c1ce-5111-45d3-9d51-04b38051e772")
 	)
 	(wire
 		(pts
@@ -3882,6 +3882,16 @@
 		)
 		(uuid "094152aa-7431-4c93-90aa-c8d375d0099e")
 	)
+	(label "JOYSTICK_BTN"
+		(at 49.53 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b541d18-ebd2-4242-a9d4-77a13559f9b3")
+	)
 	(label "JOYSTICK_X"
 		(at 49.53 101.6 0)
 		(effects
@@ -3921,6 +3931,16 @@
 			(justify left bottom)
 		)
 		(uuid "35bc6700-c9e7-4b0c-b21a-2c477832a864")
+	)
+	(label "BTN_3"
+		(at 135.89 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "35db5181-8881-4ab4-afbd-ade9b0929140")
 	)
 	(label "I_SENSE"
 		(at 135.89 59.69 180)
@@ -4022,16 +4042,6 @@
 		)
 		(uuid "b4c1c2ba-7a3b-407d-9f4d-9f64529328eb")
 	)
-	(label "JOYSTICK_BTN"
-		(at 135.89 124.46 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c0b1d343-de15-440a-851e-00f498b053f6")
-	)
 	(label "NUCLEO_VDD"
 		(at 107.95 29.21 180)
 		(effects
@@ -4041,16 +4051,6 @@
 			(justify right bottom)
 		)
 		(uuid "c314564d-7181-45e2-a9fe-35da7dab94bd")
-	)
-	(label "BTN_3"
-		(at 49.53 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c74a55d5-2a93-4561-920e-9ea991ed8cbe")
 	)
 	(label "WS2812_PWM"
 		(at 207.01 60.96 0)
@@ -4134,6 +4134,28 @@
 		)
 		(uuid "1d546584-9e3f-45e1-8b66-7f6abcc472e8")
 	)
+	(hierarchical_label "BTN_3"
+		(shape input)
+		(at 135.89 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "35f6580b-2dbe-432f-8760-e9bbf57241ee")
+	)
+	(hierarchical_label "JOYSTICK_BTN"
+		(shape input)
+		(at 49.53 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3f283c77-1c46-481d-870f-fda1c7b0cb60")
+	)
 	(hierarchical_label "I2C_SDA"
 		(shape bidirectional)
 		(at 234.95 48.26 0)
@@ -4178,17 +4200,6 @@
 		)
 		(uuid "618ced58-e70b-473d-8291-a04729ace794")
 	)
-	(hierarchical_label "BTN_3"
-		(shape input)
-		(at 49.53 119.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "91d5126f-8365-4d61-9224-e5c1f568664e")
-	)
 	(hierarchical_label "I2C_SCL"
 		(shape bidirectional)
 		(at 234.95 53.34 0)
@@ -4199,17 +4210,6 @@
 			(justify left)
 		)
 		(uuid "9c3c7c0f-49ad-4b07-9363-00165cedf05e")
-	)
-	(hierarchical_label "JOYSTICK_BTN"
-		(shape input)
-		(at 135.89 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ac3a4ee2-f73b-42d4-9db4-c8adc5a93a7e")
 	)
 	(hierarchical_label "I_SENSE"
 		(shape input)
