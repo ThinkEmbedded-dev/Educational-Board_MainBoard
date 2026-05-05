@@ -113,17 +113,6 @@
 		(uuid "4957fd02-dabf-4507-8796-f2b44feefc66")
 	)
 	(fp_rect
-		(start -13.589 -1.27)
-		(end 13.589 26.67)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill no)
-		(layer "Dwgs.User")
-		(uuid "06f4cca9-11bd-44ac-947e-e60cb923f3e3")
-	)
-	(fp_rect
 		(start -10.922 5.08)
 		(end 10.922 17.78)
 		(stroke
@@ -218,45 +207,16 @@
 		(layer "B.CrtYd")
 		(uuid "d99c6c2a-8571-4a23-9d28-f1752efbecfa")
 	)
-	(fp_line
-		(start -5.08 -1.27)
-		(end -5.08 1.27)
+	(fp_rect
+		(start -13.589 -1.27)
+		(end 13.589 26.67)
 		(stroke
-			(width 0.05)
-			(type default)
+			(width 0.1)
+			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-		(uuid "d48ab473-93a5-4587-9ddf-fec61e64558a")
-	)
-	(fp_line
-		(start -5.08 -1.27)
-		(end 5.08 -1.27)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "F.CrtYd")
-		(uuid "fd4a2b68-54d5-4bbc-9c08-8dad91cf7607")
-	)
-	(fp_line
-		(start -5.08 1.27)
-		(end 5.08 1.27)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "F.CrtYd")
-		(uuid "69beac5d-469d-44a9-ae06-a14b2fa4703d")
-	)
-	(fp_line
-		(start 5.08 1.27)
-		(end 5.08 -1.27)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "F.CrtYd")
-		(uuid "2c771dbb-dea2-4439-9dd5-5e540580132e")
+		(uuid "06f4cca9-11bd-44ac-947e-e60cb923f3e3")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 15.2 0)
@@ -303,4 +263,26 @@
 		(uuid "f049fdb3-c302-47ff-9c3b-52a20ca2e744")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Libreries/3D Models/HS96L03W2C03 DISPLAY.step"
+		(offset
+			(xyz 0 0.5 8.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
+		(offset
+			(xyz -3.7 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
 )

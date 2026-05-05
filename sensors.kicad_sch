@@ -8528,7 +8528,7 @@
 		)
 		(uuid "2419a220-01f2-4464-9b3d-c25b4bc28785")
 	)
-	(label "SHUNT_VDD"
+	(label "SHUNT_VDD2"
 		(at 52.07 148.59 0)
 		(effects
 			(font
@@ -8536,7 +8536,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "b4dddfdd-6235-4d85-9067-a138182e0552")
+		(uuid "27d2ee08-be1d-4e71-86be-54ac6ba29042")
 	)
 	(label "SHUNT_VDD"
 		(at 52.07 125.73 0)

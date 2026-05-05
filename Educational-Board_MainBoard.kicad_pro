@@ -751,6 +751,10 @@
       {
         "netclass": "MCU_pw",
         "pattern": "/Sensors/SHUNT_MCU_VDD"
+      },
+      {
+        "netclass": "MCU_pw",
+        "pattern": "/Sensors/SHUNT_VDD2"
       }
     ]
   },
