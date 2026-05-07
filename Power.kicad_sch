@@ -8,7 +8,7 @@
 		(title "Think Embedded dev Board")
 		(date "2026-03-12")
 		(rev "1.0")
-		(company "Filippo Castellan, Alan Masutti")
+		(company "Alan Masutti, Filippo Castellan")
 	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x02"

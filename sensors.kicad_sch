@@ -8,7 +8,7 @@
 		(title "Think Embedded dev Board")
 		(date "2026-03-12")
 		(rev "1.0")
-		(company "Filippo Castellan, Alan Masutti")
+		(company "Alan Masutti, Filippo Castellan")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
@@ -8561,12 +8561,12 @@
 	)
 	(hierarchical_label "JOYSTICK_X"
 		(shape output)
-		(at 208.28 124.46 180)
+		(at 245.11 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "07bf8492-4965-429b-bd00-04bff9749c83")
 	)
@@ -8616,12 +8616,12 @@
 	)
 	(hierarchical_label "JOYSTICK_Y"
 		(shape output)
-		(at 245.11 124.46 0)
+		(at 208.28 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7ec1ba22-e015-46f9-bfdf-e560dc6de448")
 	)

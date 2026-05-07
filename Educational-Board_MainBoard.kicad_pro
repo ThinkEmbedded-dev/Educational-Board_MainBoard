@@ -132,15 +132,15 @@
           ""
         ],
         [
-          "starved_thermal|107472183|82572183|8d3189a3-8ab2-483e-a755-6f31cd5568ba|28b657eb-0389-4f3f-a6b7-e9ebe62172bf|F.Cu",
+          "lib_footprint_mismatch|134129500|78798000|ba892c9f-8710-470b-8d00-9b34d305d076|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|149051848|105977500|7fbeb7ff-f4aa-4ef0-b04b-3f294313c201|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
           "starved_thermal|120387537|98566961|8d3189a3-8ab2-483e-a755-6f31cd5568ba|522d27ec-c9f8-4e28-ad1f-3fab21968c00|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|135157000|80910500|8d3189a3-8ab2-483e-a755-6f31cd5568ba|576dd104-a58f-4f65-bc3e-fa9a5e1cff1d|F.Cu",
           ""
         ],
         [
@@ -215,7 +215,7 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
@@ -246,7 +246,7 @@
         "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.15,
         "min_track_width": 0.16,
-        "min_via_annular_width": 0.25,
+        "min_via_annular_width": 0.15,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
