@@ -132,14 +132,6 @@
           ""
         ],
         [
-          "lib_footprint_mismatch|134129500|78798000|ba892c9f-8710-470b-8d00-9b34d305d076|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|149051848|105977500|7fbeb7ff-f4aa-4ef0-b04b-3f294313c201|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "starved_thermal|120387537|98566961|8d3189a3-8ab2-483e-a755-6f31cd5568ba|522d27ec-c9f8-4e28-ad1f-3fab21968c00|B.Cu",
           ""
         ],
@@ -876,7 +868,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "manufacturing/Educational-Board_MainBoard.step",
       "svg": "",
       "vrml": ""
     },
