@@ -1,0 +1,129 @@
+(footprint "PLACEHOLDER_PinSocket_2x05_P2.54mm_Vertical"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Through hole straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
+	(tags "Through hole socket strip THT 2x05 2.54mm double row")
+	(property "Reference" "REF**"
+		(at -1.27 -2.77 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "35879f2b-fd69-435f-9994-373967c2af66")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PLACEHOLDER_PinSocket_2x05_P2.54mm_Vertical"
+		(at -1.27 12.93 0)
+		(layer "F.Fab")
+		(uuid "83e263e6-374e-4c2f-9f22-a524788fdc41")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ed71a6c-38dc-49cf-b17b-3e0d126fef10")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da1d677f-aa36-404f-a134-04452de78611")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.81 -1.27)
+		(end 0.27 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "df998d58-a3cd-4b8b-9e35-67e83c5451e7")
+	)
+	(fp_line
+		(start -3.81 11.43)
+		(end -3.81 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "29a70d98-9c27-4d89-a7f1-f1c118702adb")
+	)
+	(fp_line
+		(start 0.27 -1.27)
+		(end 1.27 -0.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e91faf5e-d6e7-4d69-9c8a-3f9334277e23")
+	)
+	(fp_line
+		(start 1.27 -0.27)
+		(end 1.27 11.43)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e42b68f1-7118-4969-beb5-ad8059e6d007")
+	)
+	(fp_line
+		(start 1.27 11.43)
+		(end -3.81 11.43)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7b978460-6624-4b15-aa98-3ce89d419c87")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -1.27 5.08 90)
+		(layer "F.Fab")
+		(uuid "02f74eca-33cf-4ae5-88ec-d89dbfeb357c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x05_P2.54mm_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
