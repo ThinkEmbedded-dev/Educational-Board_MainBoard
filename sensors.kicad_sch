@@ -12322,7 +12322,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7899a107-7e15-4156-b587-850308662465")
 		(property "Reference" "U202"
 			(at 44.45 107.95 90)
@@ -12988,7 +12988,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7e9e2582-e6d7-4b3d-aacf-03788a8e1d0a")
 		(property "Reference" "U202"
 			(at 44.45 148.59 90)
