@@ -204,11 +204,11 @@
           ""
         ],
         [
-          "silk_edge_clearance|187500000|125000000|ed037a15-ad85-4fe3-ade5-72ae81a1fc0a|20810919-73ca-4404-961f-27b001dccf2d",
+          "silk_edge_clearance|230000000|122500000|58beb532-e1a1-498a-ad78-87dc41671c4a|20810919-73ca-4404-961f-27b001dccf2d",
           ""
         ],
         [
-          "silk_edge_clearance|75000000|95000000|f5dc9120-b8e5-4009-bcc0-52509f510c59|210965e3-f5f3-4a6e-99dd-3f711e84fbfb",
+          "silk_edge_clearance|77500000|125000000|b777ae87-daa3-4368-99f6-80f8bbd7afc2|210965e3-f5f3-4a6e-99dd-3f711e84fbfb",
           ""
         ],
         [
@@ -332,7 +332,7 @@
           ""
         ],
         [
-          "silk_overlap|80166666|117588152|210965e3-f5f3-4a6e-99dd-3f711e84fbfb|4685a0ea-74f7-4a40-9060-d49bb75e06a6",
+          "silk_overlap|78976190|117254819|210965e3-f5f3-4a6e-99dd-3f711e84fbfb|4685a0ea-74f7-4a40-9060-d49bb75e06a6",
           ""
         ],
         [
@@ -1102,8 +1102,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "PRODUCTION/Gerber/",
-      "pos_files": "PRODUCTION/Assembly/",
+      "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "manufacturing/Educational-Board_MainBoard.step",
       "svg": "",
@@ -1113,7 +1113,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "PRODUCTION/Assembly/${PROJECTNAME}.csv",
+    "bom_export_filename": "manufacturing/${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -1126,7 +1126,7 @@
     },
     "bom_presets": [],
     "bom_settings": {
-      "exclude_dnp": true,
+      "exclude_dnp": false,
       "fields_ordered": [
         {
           "group_by": true,
@@ -1150,7 +1150,7 @@
           "group_by": false,
           "label": "Checked",
           "name": "Checked",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -1168,13 +1168,13 @@
           "group_by": false,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1247,8 +1247,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "${EXCLUDE_FROM_BOARD}"
+      "sort_asc": true,
+      "sort_field": "Checked"
     },
     "connection_grid_size": 50.0,
     "drawing": {
