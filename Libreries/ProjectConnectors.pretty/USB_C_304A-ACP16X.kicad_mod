@@ -271,7 +271,7 @@
 		(uuid "abc88b46-d5c4-4f62-8fc0-80676bf3c1a2")
 	)
 	(embedded_fonts no)
-	(model "${MY_3DMODEL}/usb-c.STEP"
+	(model "${KIPRJMOD}/Libreries/3D Models/usb-c.STEP"
 		(offset
 			(xyz 0 4.7 1.5)
 		)
@@ -279,7 +279,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 180 0 0)
+			(xyz 180 -0 -0)
 		)
 	)
 )
