@@ -1286,7 +1286,7 @@
       "model_mode": 4,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://ThinkEmbedded_sheet_template.kicad_wks",
     "plot_directory": "manufacturing/PDF/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
