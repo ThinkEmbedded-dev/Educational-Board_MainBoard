@@ -6607,15 +6607,15 @@
 			(uuid "7ebdcb37-01df-4368-9ce9-2c12c02f749c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -10715,15 +10715,15 @@
 			(uuid "3335b218-ad2d-4449-8799-c71bb4fead79")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -12669,15 +12669,15 @@
 			(uuid "4febeb54-7353-4037-9027-0646d154a70d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -23725,15 +23725,15 @@
 			(uuid "726b207d-3e47-439e-9e19-754a87311d75")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -26689,15 +26689,15 @@
 			(uuid "db73d74c-4850-4a8e-a4e4-eb2316865701")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -29097,15 +29097,15 @@
 			(uuid "0c503ab8-ca02-4f51-a99e-7af4108589a5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -36189,7 +36189,7 @@
 			(uuid "0747066a-3fe7-4d57-9411-4ae7378f35ea")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.step"
+		(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41587,15 +41587,15 @@
 			(uuid "924b0229-af3a-44e4-93ce-268bcabfc65c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -42183,15 +42183,15 @@
 			(uuid "fb09b9ea-880c-4e31-93e2-b26525066e1d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -44059,15 +44059,15 @@
 			(uuid "b83e6da7-7bb1-4696-b4f1-6491699defff")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -45112,15 +45112,15 @@
 			(uuid "ab19f08e-3a39-48e7-93b5-c7e1de2fee4f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.step"
+		(model "${KIPRJMOD}/Libreries/3D Models/WS2812-2020.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 0.25)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
