@@ -354,7 +354,7 @@
 			(pin bidirectional line
 				(at -27.94 1.27 0)
 				(length 3.81)
-				(name "PC0/(PB6-NC)"
+				(name "PC0/A5/(PB6-NC)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -372,7 +372,7 @@
 			(pin bidirectional line
 				(at -27.94 -1.27 0)
 				(length 3.81)
-				(name "PC1/(PB7-NC)"
+				(name "PC1/A4/(PB7-NC)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -462,7 +462,7 @@
 			(pin bidirectional line
 				(at -27.94 -13.97 0)
 				(length 3.81)
-				(name "PC6"
+				(name "PC6/D9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -480,7 +480,7 @@
 			(pin bidirectional line
 				(at -27.94 -16.51 0)
 				(length 3.81)
-				(name "PC7"
+				(name "PC7/D8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -498,7 +498,7 @@
 			(pin bidirectional line
 				(at -27.94 -19.05 0)
 				(length 3.81)
-				(name "PC8"
+				(name "PC8/D2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -516,7 +516,7 @@
 			(pin bidirectional line
 				(at -27.94 -21.59 0)
 				(length 3.81)
-				(name "PC9"
+				(name "PC9/D10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -948,7 +948,7 @@
 			(pin bidirectional line
 				(at 27.94 38.1 180)
 				(length 3.81)
-				(name "PA0"
+				(name "A0/PA0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -966,7 +966,7 @@
 			(pin bidirectional line
 				(at 27.94 35.56 180)
 				(length 3.81)
-				(name "PA1"
+				(name "A1/PA1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -984,7 +984,7 @@
 			(pin bidirectional line
 				(at 27.94 33.02 180)
 				(length 3.81)
-				(name "LD2/PA5"
+				(name "D13/LD2/PA5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1002,7 +1002,7 @@
 			(pin bidirectional line
 				(at 27.94 30.48 180)
 				(length 3.81)
-				(name "PA6"
+				(name "D12/PA6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1020,7 +1020,7 @@
 			(pin bidirectional line
 				(at 27.94 27.94 180)
 				(length 3.81)
-				(name "PA7"
+				(name "~D11/PA7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1038,7 +1038,7 @@
 			(pin bidirectional line
 				(at 27.94 25.4 180)
 				(length 3.81)
-				(name "PA8"
+				(name "D7/PA8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1182,7 +1182,7 @@
 			(pin bidirectional line
 				(at 27.94 1.27 180)
 				(length 3.81)
-				(name "PB0"
+				(name "A3/PB0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1200,7 +1200,7 @@
 			(pin bidirectional line
 				(at 27.94 -1.27 180)
 				(length 3.81)
-				(name "PB1"
+				(name "A2/PB1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1236,7 +1236,7 @@
 			(pin bidirectional line
 				(at 27.94 -6.35 180)
 				(length 3.81)
-				(name "STLINK_SWO/PB3"
+				(name "~D3/STLINK_SWO/PB3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1254,7 +1254,7 @@
 			(pin bidirectional line
 				(at 27.94 -8.89 180)
 				(length 3.81)
-				(name "PB4"
+				(name "~D5/PB4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1272,7 +1272,7 @@
 			(pin bidirectional line
 				(at 27.94 -11.43 180)
 				(length 3.81)
-				(name "PB5"
+				(name "D4/PB5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1290,7 +1290,7 @@
 			(pin bidirectional line
 				(at 27.94 -13.97 180)
 				(length 3.81)
-				(name "PB6"
+				(name "D15/PB6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1308,7 +1308,7 @@
 			(pin bidirectional line
 				(at 27.94 -16.51 180)
 				(length 3.81)
-				(name "PB7"
+				(name "D14/PB7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1344,7 +1344,7 @@
 			(pin bidirectional line
 				(at 27.94 -21.59 180)
 				(length 3.81)
-				(name "PB10"
+				(name "~D6/PB10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1434,7 +1434,7 @@
 			(pin bidirectional line
 				(at 27.94 -34.29 180)
 				(length 3.81)
-				(name "ARDUINO_UART_TX/PB14"
+				(name "D1/ARDUINO_UART_TX/PB14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1452,7 +1452,7 @@
 			(pin bidirectional line
 				(at 27.94 -36.83 180)
 				(length 3.81)
-				(name "ARDUINO_UART_RX/PB15"
+				(name "D0/ARDUINO_UART_RX/PB15"
 					(effects
 						(font
 							(size 1.27 1.27)
